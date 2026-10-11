@@ -1,0 +1,11 @@
+paths:
+  database: db/dpdp.db
+  raw_dir: data/raw
+  seed_csv: data/seeds/company_list.csv
+scraper:
+  min_delay_seconds: 1.5
+  max_delay_seconds: 2.5
+random_seed: 42
+gemini:
+  model_name: ""   # fill in once decided
+  temperature: 0

@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+scikit-learn
+streamlit
+python-dotenv
+pyyaml
+tqdm
+openpyxl
