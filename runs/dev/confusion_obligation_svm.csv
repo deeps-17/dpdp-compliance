@@ -1,0 +1,12 @@
+,Breach Notification,Childrens Data,Consent,Cross-Border Transfer,Grievance Redressal,None,Notice,Purpose Limitation,Retention and Erasure,Security Safeguards,Withdrawal of Consent
+Breach Notification,0,0,0,0,0,0,0,0,0,0,0
+Childrens Data,0,2,0,0,0,0,0,0,0,0,0
+Consent,0,0,1,0,0,2,0,2,0,0,0
+Cross-Border Transfer,0,0,0,0,0,0,0,1,0,0,0
+Grievance Redressal,0,0,0,0,0,0,0,0,0,0,0
+None,0,1,1,0,0,49,2,5,0,0,0
+Notice,0,0,0,0,0,1,4,2,0,0,0
+Purpose Limitation,0,0,1,0,0,6,3,22,0,1,1
+Retention and Erasure,0,0,0,0,1,1,1,2,2,0,0
+Security Safeguards,0,0,0,0,0,1,0,1,0,3,0
+Withdrawal of Consent,0,0,0,0,0,0,0,0,0,0,1

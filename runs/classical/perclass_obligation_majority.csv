@@ -1,0 +1,15 @@
+,precision,recall,f1-score,support
+Breach Notification,0.0,0.0,0.0,0.0
+Childrens Data,0.0,0.0,0.0,0.0
+Consent,0.0,0.0,0.0,17.0
+Cross-Border Transfer,0.0,0.0,0.0,4.0
+Grievance Redressal,0.0,0.0,0.0,8.0
+None,0.4722222222222222,1.0,0.6415094339622641,85.0
+Notice,0.0,0.0,0.0,20.0
+Purpose Limitation,0.0,0.0,0.0,20.0
+Retention and Erasure,0.0,0.0,0.0,8.0
+Security Safeguards,0.0,0.0,0.0,14.0
+Withdrawal of Consent,0.0,0.0,0.0,4.0
+accuracy,0.4722222222222222,0.4722222222222222,0.4722222222222222,0.4722222222222222
+macro avg,0.04292929292929293,0.09090909090909091,0.05831903945111492,180.0
+weighted avg,0.22299382716049382,0.4722222222222222,0.30293501048218024,180.0

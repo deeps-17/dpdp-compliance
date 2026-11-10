@@ -1,0 +1,23 @@
+,precision,recall,f1-score,support
+Breach Notification|not_satisfied,0.0,0.0,0.0,0.0
+Childrens Data|not_satisfied,0.0,0.0,0.0,0.0
+Childrens Data|satisfied,0.0,0.0,0.0,0.0
+Consent|not_satisfied,0.6,0.35294117647058826,0.4444444444444444,17.0
+Consent|satisfied,0.0,0.0,0.0,0.0
+Cross-Border Transfer|not_satisfied,0.75,0.75,0.75,4.0
+Cross-Border Transfer|satisfied,0.0,0.0,0.0,0.0
+Grievance Redressal|not_satisfied,0.5555555555555556,0.625,0.5882352941176471,8.0
+Grievance Redressal|satisfied,0.0,0.0,0.0,0.0
+None|not_applicable,0.6166666666666667,0.43529411764705883,0.5103448275862069,85.0
+Notice|not_satisfied,0.3103448275862069,0.45,0.3673469387755102,20.0
+Purpose Limitation|not_satisfied,0.13333333333333333,0.5714285714285714,0.21621621621621623,7.0
+Purpose Limitation|satisfied,0.0,0.0,0.0,13.0
+Retention and Erasure|not_satisfied,0.375,0.5,0.42857142857142855,6.0
+Retention and Erasure|satisfied,0.0,0.0,0.0,2.0
+Security Safeguards|not_satisfied,0.5333333333333333,0.6666666666666666,0.5925925925925926,12.0
+Security Safeguards|satisfied,0.0,0.0,0.0,2.0
+Withdrawal of Consent|not_satisfied,0.0,0.0,0.0,4.0
+Withdrawal of Consent|satisfied,0.0,0.0,0.0,0.0
+accuracy,0.4166666666666667,0.4166666666666667,0.4166666666666667,0.4166666666666667
+macro avg,0.2039070377092156,0.22901739643225713,0.2051448285423182,180.0
+weighted avg,0.47695189442315883,0.4166666666666667,0.42879855680493173,180.0

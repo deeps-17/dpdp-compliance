@@ -1,0 +1,121 @@
+clause_id,policy_id,true,pred_svm,pred_rf,pred_majority,pred_keyword
+3555,34,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+3563,34,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Notice|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+3572,34,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+3574,34,None|not_applicable,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,Childrens Data|not_applicable
+3577,34,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+3585,34,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,Consent|not_applicable
+3597,34,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Breach Notification|not_applicable
+3604,34,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3618,34,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3619,34,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3622,34,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,Purpose Limitation|satisfied,None|not_applicable,Purpose Limitation|not_applicable
+3623,34,Retention and Erasure|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,Retention and Erasure|not_applicable
+3624,34,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3630,34,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+3641,34,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3650,36,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3673,36,Purpose Limitation|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+3674,36,None|not_applicable,Security Safeguards|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+3677,36,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Consent|satisfied,None|not_applicable,Consent|not_applicable
+3679,36,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Consent|satisfied,None|not_applicable,Consent|not_applicable
+3681,36,Purpose Limitation|not_satisfied,Consent|satisfied,Consent|satisfied,None|not_applicable,Consent|not_applicable
+3682,36,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+3694,36,Childrens Data|not_satisfied,Childrens Data|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+3697,36,Childrens Data|satisfied,Childrens Data|satisfied,Notice|not_satisfied,None|not_applicable,Childrens Data|not_applicable
+3705,36,Cross-Border Transfer|not_satisfied,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,Retention and Erasure|not_applicable
+3715,36,Retention and Erasure|satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+3717,36,Retention and Erasure|satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+3727,36,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+3729,36,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Childrens Data|not_applicable
+3735,36,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6510,76,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6511,76,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6521,76,Purpose Limitation|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+6522,76,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+6531,76,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable
+6536,76,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+6538,76,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+6546,76,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6553,76,Purpose Limitation|not_satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+6559,76,None|not_applicable,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+6561,76,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+6564,76,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+6569,76,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6574,76,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6579,76,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7154,84,None|not_applicable,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,None|not_applicable
+7157,84,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7158,84,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7168,84,Consent|satisfied,None|not_applicable,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+7170,84,Notice|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+7171,84,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+7173,84,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7175,84,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7177,84,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+7188,84,Notice|not_satisfied,Purpose Limitation|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+7199,84,Purpose Limitation|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+7202,84,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable
+7206,84,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7207,84,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable
+7210,84,None|not_applicable,None|not_applicable,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+7215,87,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+7223,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7225,87,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+7226,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Consent|not_applicable
+7227,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7228,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7229,87,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable
+7230,87,Retention and Erasure|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+7244,87,Purpose Limitation|satisfied,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+7252,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Breach Notification|not_applicable
+7261,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+7262,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+7264,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7266,87,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7270,87,Retention and Erasure|satisfied,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable
+7952,109,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7961,109,None|not_applicable,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+7965,109,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,None|not_applicable,Consent|not_applicable
+7995,109,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8002,109,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8006,109,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+8027,109,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8029,109,Purpose Limitation|not_satisfied,Withdrawal of Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,None|not_applicable
+8060,109,None|not_applicable,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8061,109,Consent|satisfied,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable
+8071,109,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+8085,109,Security Safeguards|satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+8088,109,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Security Safeguards|not_applicable
+8094,109,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8099,109,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8114,111,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8140,111,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+8157,111,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+8165,111,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8168,111,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8171,111,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,Security Safeguards|not_applicable
+8174,111,Purpose Limitation|not_satisfied,Consent|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+8178,111,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+8179,111,None|not_applicable,Purpose Limitation|not_satisfied,Consent|not_satisfied,None|not_applicable,None|not_applicable
+8183,111,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8190,111,Purpose Limitation|not_satisfied,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,Cross-Border Transfer|not_applicable
+8211,111,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+8214,111,Withdrawal of Consent|satisfied,Withdrawal of Consent|satisfied,Consent|satisfied,None|not_applicable,Consent|not_applicable
+8219,111,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8224,111,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+9346,140,Security Safeguards|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+9347,140,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+9355,140,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+9399,140,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+9402,140,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+9409,140,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+9431,140,Purpose Limitation|not_satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+9439,140,Purpose Limitation|not_satisfied,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+9442,140,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+9446,140,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+9464,140,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+9465,140,Consent|satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+9478,140,Consent|satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+9485,140,Purpose Limitation|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+9490,140,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable

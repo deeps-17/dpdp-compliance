@@ -1,0 +1,20 @@
+,Breach Notification|not_satisfied,Childrens Data|not_satisfied,Childrens Data|satisfied,Consent|not_satisfied,Consent|satisfied,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|satisfied,Grievance Redressal|not_satisfied,Grievance Redressal|satisfied,None|not_applicable,Notice|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|satisfied,Security Safeguards|not_satisfied,Security Safeguards|satisfied,Withdrawal of Consent|not_satisfied,Withdrawal of Consent|satisfied
+Breach Notification|not_satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Childrens Data|not_satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Childrens Data|satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Consent|not_satisfied,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+Consent|satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cross-Border Transfer|not_satisfied,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Cross-Border Transfer|satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Grievance Redressal|not_satisfied,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0
+Grievance Redressal|satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+None|not_applicable,0,0,0,0,0,0,0,0,0,70,0,0,0,0,0,0,0,0,0
+Notice|not_satisfied,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0
+Purpose Limitation|not_satisfied,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+Purpose Limitation|satisfied,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0
+Retention and Erasure|not_satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Retention and Erasure|satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Security Safeguards|not_satisfied,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+Security Safeguards|satisfied,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Withdrawal of Consent|not_satisfied,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Withdrawal of Consent|satisfied,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

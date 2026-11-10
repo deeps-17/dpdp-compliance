@@ -1,0 +1,181 @@
+clause_id,policy_id,true,pred_svm,pred_rf,pred_majority,pred_keyword
+2505,10,None,None,None,None,None
+2507,10,None,None,Notice,None,None
+2510,10,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+2512,10,None,Notice,Notice,None,None
+2516,10,None,Notice,Notice,None,None
+2519,10,None,None,None,None,None
+2527,10,None,Notice,Notice,None,None
+2530,10,Consent,Purpose Limitation,Consent,None,Consent
+2533,10,Notice,None,None,None,None
+2535,10,None,Notice,Notice,None,Notice
+2539,10,Notice,Notice,Notice,None,Notice
+2557,10,None,None,None,None,None
+2574,10,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+2580,10,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+2581,10,Purpose Limitation,None,Security Safeguards,None,None
+2798,17,None,None,Purpose Limitation,None,None
+2803,17,Security Safeguards,Purpose Limitation,Security Safeguards,None,Security Safeguards
+2813,17,None,None,Purpose Limitation,None,None
+2830,17,Consent,Purpose Limitation,Purpose Limitation,None,Consent
+2839,17,None,None,None,None,None
+2846,17,Cross-Border Transfer,Cross-Border Transfer,Cross-Border Transfer,None,Cross-Border Transfer
+2856,17,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+2860,17,None,None,None,None,None
+2862,17,None,None,None,None,None
+2863,17,Security Safeguards,None,None,None,Security Safeguards
+2866,17,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+2875,17,None,None,None,None,None
+2882,17,None,Consent,Purpose Limitation,None,None
+2897,17,Grievance Redressal,Grievance Redressal,Grievance Redressal,None,Grievance Redressal
+2901,17,Notice,None,None,None,None
+3742,37,None,None,Notice,None,Security Safeguards
+3743,37,None,Security Safeguards,Notice,None,None
+3744,37,None,Withdrawal of Consent,Withdrawal of Consent,None,None
+3747,37,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Notice
+3754,37,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+3771,37,Retention and Erasure,Retention and Erasure,Retention and Erasure,None,Retention and Erasure
+3772,37,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+3773,37,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+3782,37,None,None,None,None,None
+3783,37,None,None,Consent,None,None
+3787,37,None,None,None,None,None
+3790,37,Consent,Consent,Purpose Limitation,None,None
+3791,37,Consent,Consent,Consent,None,Consent
+3811,37,Consent,Consent,Consent,None,Consent
+3812,37,None,None,None,None,None
+5201,57,Notice,None,Notice,None,Notice
+5205,57,Notice,Notice,Notice,None,Notice
+5215,57,Consent,None,None,None,Consent
+5240,57,Purpose Limitation,Consent,Purpose Limitation,None,Purpose Limitation
+5269,57,Purpose Limitation,Purpose Limitation,None,None,Purpose Limitation
+5278,57,None,None,None,None,None
+5294,57,Consent,Consent,Consent,None,Consent
+5330,57,Purpose Limitation,Consent,None,None,None
+5350,57,Notice,Purpose Limitation,Purpose Limitation,None,Consent
+5377,57,None,Notice,None,None,None
+5458,57,Consent,None,None,None,Consent
+5482,57,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+5486,57,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+5522,57,Retention and Erasure,Retention and Erasure,Retention and Erasure,None,Retention and Erasure
+5533,57,Grievance Redressal,None,None,None,None
+5611,68,None,None,None,None,None
+5614,68,Purpose Limitation,Purpose Limitation,Security Safeguards,None,Security Safeguards
+5627,68,Retention and Erasure,None,None,None,Purpose Limitation
+5630,68,None,None,None,None,None
+5631,68,None,Purpose Limitation,Purpose Limitation,None,None
+5633,68,None,Notice,Notice,None,None
+5648,68,None,Purpose Limitation,Purpose Limitation,None,None
+5662,68,Withdrawal of Consent,Withdrawal of Consent,Withdrawal of Consent,None,None
+5665,68,Notice,Grievance Redressal,Grievance Redressal,None,Grievance Redressal
+5669,68,Notice,Notice,Notice,None,Notice
+5679,68,Grievance Redressal,Grievance Redressal,None,None,Grievance Redressal
+5681,68,None,Purpose Limitation,Purpose Limitation,None,None
+5687,68,None,Withdrawal of Consent,Consent,None,Retention and Erasure
+5688,68,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+5714,68,Notice,Notice,Notice,None,None
+6094,73,Notice,Notice,Notice,None,Notice
+6106,73,None,None,None,None,None
+6110,73,None,None,None,None,None
+6127,73,None,Notice,Notice,None,Security Safeguards
+6129,73,None,Notice,Notice,None,None
+6154,73,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Retention and Erasure
+6158,73,None,None,None,None,None
+6159,73,None,None,Purpose Limitation,None,None
+6169,73,Consent,None,Purpose Limitation,None,Purpose Limitation
+6174,73,Withdrawal of Consent,Withdrawal of Consent,Withdrawal of Consent,None,Withdrawal of Consent
+6211,73,Cross-Border Transfer,Cross-Border Transfer,Cross-Border Transfer,None,Cross-Border Transfer
+6275,73,Notice,Notice,Cross-Border Transfer,None,Notice
+6289,73,None,Notice,Notice,None,Notice
+6294,73,Notice,Notice,Notice,None,Notice
+6349,73,Grievance Redressal,None,None,None,None
+6907,81,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+6921,81,None,Cross-Border Transfer,Notice,None,None
+6939,81,None,Notice,Notice,None,None
+6957,81,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+7006,81,None,None,None,None,None
+7028,81,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+7038,81,Retention and Erasure,Retention and Erasure,Retention and Erasure,None,Notice
+7045,81,Notice,Notice,Notice,None,None
+7054,81,Grievance Redressal,Retention and Erasure,Retention and Erasure,None,None
+7085,81,None,None,Consent,None,None
+7087,81,None,None,Purpose Limitation,None,None
+7099,81,None,None,None,None,None
+7107,81,Purpose Limitation,Withdrawal of Consent,Withdrawal of Consent,None,Purpose Limitation
+7125,81,None,None,None,None,None
+7151,81,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+8488,122,None,Notice,Notice,None,Breach Notification
+8489,122,None,Purpose Limitation,Purpose Limitation,None,Breach Notification
+8493,122,None,None,None,None,None
+8496,122,None,None,None,None,None
+8519,122,None,None,None,None,Consent
+8522,122,None,None,None,None,None
+8533,122,Consent,None,None,None,None
+8534,122,None,None,None,None,None
+8535,122,Consent,None,None,None,None
+8557,122,Security Safeguards,None,None,None,None
+8561,122,None,None,Purpose Limitation,None,Purpose Limitation
+8570,122,Withdrawal of Consent,Withdrawal of Consent,None,None,Withdrawal of Consent
+8584,122,None,Purpose Limitation,Purpose Limitation,None,None
+8587,122,Grievance Redressal,None,None,None,Grievance Redressal
+8590,122,Grievance Redressal,Grievance Redressal,Grievance Redressal,None,None
+8598,123,None,None,None,None,None
+8600,123,Consent,None,Consent,None,Consent
+8602,123,None,None,None,None,None
+8605,123,Notice,Notice,Notice,None,None
+8606,123,Consent,Consent,Consent,None,None
+8619,123,Purpose Limitation,None,None,None,None
+8621,123,None,None,Purpose Limitation,None,None
+8623,123,None,Notice,Notice,None,Notice
+8626,123,None,Purpose Limitation,Purpose Limitation,None,None
+8648,123,None,None,None,None,None
+8674,123,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+8686,123,None,None,None,None,None
+8687,123,None,None,None,None,None
+8688,123,None,None,None,None,None
+8691,123,Grievance Redressal,Grievance Redressal,Grievance Redressal,None,Grievance Redressal
+8781,125,None,None,None,None,None
+8782,125,Consent,None,None,None,Consent
+8791,125,Notice,None,None,None,None
+8795,125,None,Notice,Notice,None,Security Safeguards
+8800,125,Consent,Notice,Notice,None,Retention and Erasure
+8815,125,Cross-Border Transfer,Cross-Border Transfer,Cross-Border Transfer,None,None
+8828,125,Notice,None,Notice,None,Retention and Erasure
+8831,125,Retention and Erasure,None,Purpose Limitation,None,Retention and Erasure
+8832,125,Retention and Erasure,Consent,Purpose Limitation,None,Retention and Erasure
+8834,125,None,None,Retention and Erasure,None,None
+8835,125,Cross-Border Transfer,Cross-Border Transfer,Retention and Erasure,None,Purpose Limitation
+8853,125,None,Consent,None,None,None
+8871,125,None,Security Safeguards,Security Safeguards,None,Security Safeguards
+8873,125,None,None,None,None,None
+8879,125,None,None,None,None,None
+10521,149,None,None,Consent,None,None
+10529,149,None,None,None,None,None
+10530,149,None,None,None,None,None
+10531,149,None,None,None,None,None
+10542,149,Consent,Consent,Consent,None,Consent
+10569,149,None,Purpose Limitation,Purpose Limitation,None,None
+10572,149,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+10587,149,None,None,None,None,Purpose Limitation
+10596,149,Purpose Limitation,Consent,None,None,None
+10598,149,None,Purpose Limitation,Purpose Limitation,None,None
+10614,149,None,Notice,None,None,None
+10627,149,None,None,None,None,None
+10638,149,Security Safeguards,Security Safeguards,Notice,None,None
+10640,149,None,Security Safeguards,Security Safeguards,None,Security Safeguards
+10650,149,None,Consent,Purpose Limitation,None,None
+10747,152,None,None,None,None,None
+10754,152,None,Notice,Notice,None,Purpose Limitation
+10778,152,Withdrawal of Consent,Withdrawal of Consent,Withdrawal of Consent,None,Withdrawal of Consent
+10791,152,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards
+10792,152,Security Safeguards,None,None,None,Security Safeguards
+10793,152,Security Safeguards,None,None,None,None
+10797,152,None,None,None,None,None
+10812,152,Notice,Notice,None,None,Retention and Erasure
+10813,152,Notice,None,None,None,None
+10821,152,None,Notice,Notice,None,None
+10823,152,Consent,Consent,Consent,None,Consent
+10834,152,Retention and Erasure,Notice,Notice,None,Retention and Erasure
+10840,152,Notice,Notice,Notice,None,Purpose Limitation
+10844,152,Notice,Notice,Purpose Limitation,None,Retention and Erasure
+10859,152,Retention and Erasure,None,None,None,Retention and Erasure

@@ -1,0 +1,13 @@
+{
+  "model": "gemini-3.5-flash",
+  "prompt_version": "v1",
+  "prompt_sha256_12": "e3e25dc10f52",
+  "temperature": 0,
+  "runs": 3,
+  "n_clauses": 180,
+  "split": "test",
+  "db": "db/dpdp.db",
+  "mock": false,
+  "date": "2026-11-10 13:30:43",
+  "python": "3.13.1"
+}

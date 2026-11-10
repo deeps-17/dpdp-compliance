@@ -1,0 +1,121 @@
+clause_id,policy_id,true,pred_svm,pred_rf,pred_majority,pred_keyword
+3555,34,None,None,None,None,Purpose Limitation
+3563,34,Purpose Limitation,Purpose Limitation,Notice,None,Purpose Limitation
+3572,34,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+3574,34,None,Childrens Data,None,None,Childrens Data
+3577,34,Retention and Erasure,Retention and Erasure,Retention and Erasure,None,Retention and Erasure
+3585,34,Purpose Limitation,Purpose Limitation,None,None,Consent
+3597,34,Security Safeguards,Security Safeguards,Security Safeguards,None,Breach Notification
+3604,34,None,None,None,None,None
+3618,34,None,None,None,None,None
+3619,34,None,None,None,None,None
+3622,34,Retention and Erasure,Purpose Limitation,None,None,Purpose Limitation
+3623,34,Retention and Erasure,None,None,None,Retention and Erasure
+3624,34,None,None,None,None,None
+3630,34,Notice,Notice,Notice,None,Retention and Erasure
+3641,34,None,None,None,None,None
+3650,36,None,None,None,None,None
+3673,36,Purpose Limitation,Security Safeguards,Security Safeguards,None,Security Safeguards
+3674,36,None,Purpose Limitation,None,None,None
+3677,36,Purpose Limitation,Purpose Limitation,Consent,None,Consent
+3679,36,Purpose Limitation,Purpose Limitation,Consent,None,Consent
+3681,36,Purpose Limitation,Purpose Limitation,Consent,None,Consent
+3682,36,Purpose Limitation,Purpose Limitation,Consent,None,Consent
+3694,36,Childrens Data,Childrens Data,None,None,None
+3697,36,Childrens Data,Childrens Data,None,None,Childrens Data
+3705,36,Cross-Border Transfer,Purpose Limitation,Purpose Limitation,None,Retention and Erasure
+3715,36,Retention and Erasure,Retention and Erasure,Retention and Erasure,None,Retention and Erasure
+3717,36,Retention and Erasure,Notice,Consent,None,Retention and Erasure
+3727,36,None,None,None,None,None
+3729,36,None,None,None,None,Childrens Data
+3735,36,None,None,None,None,None
+6510,76,None,None,None,None,None
+6511,76,None,None,None,None,None
+6521,76,Purpose Limitation,Notice,Notice,None,Notice
+6522,76,Notice,Notice,None,None,None
+6531,76,None,None,None,None,None
+6536,76,None,None,None,None,None
+6538,76,None,Purpose Limitation,None,None,None
+6546,76,None,None,None,None,None
+6553,76,Purpose Limitation,Purpose Limitation,None,None,Purpose Limitation
+6559,76,None,None,Purpose Limitation,None,None
+6561,76,Purpose Limitation,None,None,None,None
+6564,76,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+6569,76,None,None,None,None,None
+6574,76,None,None,None,None,None
+6579,76,None,None,None,None,None
+7154,84,None,None,Consent,None,None
+7157,84,None,None,None,None,None
+7158,84,None,None,None,None,None
+7168,84,Consent,None,None,None,Consent
+7170,84,Notice,Purpose Limitation,Purpose Limitation,None,None
+7171,84,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+7173,84,None,None,None,None,None
+7175,84,Purpose Limitation,None,None,None,None
+7177,84,Purpose Limitation,Purpose Limitation,None,None,Purpose Limitation
+7188,84,Notice,Purpose Limitation,Notice,None,None
+7199,84,Purpose Limitation,Notice,Notice,None,Purpose Limitation
+7202,84,None,None,None,None,None
+7206,84,None,None,None,None,None
+7207,84,None,None,None,None,None
+7210,84,None,None,None,None,Consent
+7215,87,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+7223,87,None,None,None,None,None
+7225,87,Purpose Limitation,Purpose Limitation,None,None,Purpose Limitation
+7226,87,None,None,None,None,Consent
+7227,87,None,None,None,None,None
+7228,87,None,None,None,None,None
+7229,87,None,None,None,None,None
+7230,87,Retention and Erasure,Purpose Limitation,Purpose Limitation,None,Retention and Erasure
+7244,87,Purpose Limitation,None,Purpose Limitation,None,None
+7252,87,None,None,None,None,Breach Notification
+7261,87,None,None,None,None,Purpose Limitation
+7262,87,None,None,None,None,Purpose Limitation
+7264,87,None,None,None,None,None
+7266,87,None,None,None,None,None
+7270,87,Retention and Erasure,Grievance Redressal,Grievance Redressal,None,None
+7952,109,None,None,None,None,None
+7961,109,None,None,None,None,None
+7965,109,Consent,Consent,None,None,Consent
+7995,109,None,Notice,None,None,None
+8002,109,Notice,None,None,None,None
+8006,109,Notice,Notice,Notice,None,Notice
+8027,109,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+8029,109,Purpose Limitation,Withdrawal of Consent,None,None,None
+8060,109,None,None,None,None,None
+8061,109,Consent,None,Consent,None,None
+8071,109,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Purpose Limitation
+8085,109,Security Safeguards,Purpose Limitation,None,None,None
+8088,109,None,None,None,None,Security Safeguards
+8094,109,None,None,None,None,None
+8099,109,None,None,None,None,None
+8114,111,None,None,None,None,None
+8140,111,None,Notice,Notice,None,None
+8157,111,Purpose Limitation,Purpose Limitation,Notice,None,Notice
+8165,111,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+8168,111,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+8171,111,Purpose Limitation,None,None,None,Security Safeguards
+8174,111,Purpose Limitation,Consent,None,None,None
+8178,111,None,Purpose Limitation,None,None,None
+8179,111,None,Purpose Limitation,Consent,None,None
+8183,111,Purpose Limitation,None,Purpose Limitation,None,None
+8190,111,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,Cross-Border Transfer
+8211,111,Security Safeguards,Security Safeguards,Purpose Limitation,None,Security Safeguards
+8214,111,Withdrawal of Consent,Withdrawal of Consent,Consent,None,Consent
+8219,111,None,None,None,None,None
+8224,111,None,None,None,None,None
+9346,140,Security Safeguards,None,None,None,None
+9347,140,None,Consent,None,None,None
+9355,140,Notice,Notice,Notice,None,Purpose Limitation
+9399,140,None,None,None,None,None
+9402,140,None,None,None,None,None
+9409,140,None,Purpose Limitation,None,None,None
+9431,140,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+9439,140,Purpose Limitation,Purpose Limitation,Purpose Limitation,None,None
+9442,140,Purpose Limitation,None,Purpose Limitation,None,None
+9446,140,Purpose Limitation,Purpose Limitation,None,None,Purpose Limitation
+9464,140,None,None,None,None,None
+9465,140,Consent,Purpose Limitation,None,None,None
+9478,140,Consent,Purpose Limitation,None,None,None
+9485,140,Purpose Limitation,Notice,None,None,None
+9490,140,Security Safeguards,Security Safeguards,Security Safeguards,None,Security Safeguards

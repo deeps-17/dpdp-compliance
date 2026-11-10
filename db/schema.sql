@@ -33,6 +33,8 @@ CREATE TABLE IF NOT EXISTS clauses (
     clause_index  INTEGER NOT NULL,
     clause_text   TEXT NOT NULL,
     text_hash     TEXT,
+    heading       TEXT,
+    flag          TEXT,
     UNIQUE (policy_id, clause_index)
 );
 

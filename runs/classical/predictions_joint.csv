@@ -1,0 +1,181 @@
+clause_id,policy_id,true,pred_svm,pred_rf,pred_majority,pred_keyword
+2505,10,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+2507,10,None|not_applicable,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+2510,10,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+2512,10,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+2516,10,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+2519,10,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+2527,10,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+2530,10,Consent|not_satisfied,Security Safeguards|satisfied,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+2533,10,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+2535,10,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+2539,10,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+2557,10,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+2574,10,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+2580,10,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+2581,10,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,None|not_applicable
+2798,17,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable
+2803,17,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+2813,17,None|not_applicable,Purpose Limitation|satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+2830,17,Consent|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Consent|not_applicable
+2839,17,None|not_applicable,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+2846,17,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|not_satisfied,None|not_applicable,Cross-Border Transfer|not_applicable
+2856,17,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+2860,17,None|not_applicable,None|not_applicable,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable
+2862,17,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+2863,17,Security Safeguards|not_satisfied,None|not_applicable,Notice|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+2866,17,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+2875,17,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+2882,17,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+2897,17,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,None|not_applicable,Grievance Redressal|not_applicable
+2901,17,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3742,37,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+3743,37,None|not_applicable,Notice|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,None|not_applicable
+3744,37,None|not_applicable,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+3747,37,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|satisfied,None|not_applicable,Notice|not_applicable
+3754,37,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+3771,37,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+3772,37,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+3773,37,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+3782,37,None|not_applicable,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable
+3783,37,None|not_applicable,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable
+3787,37,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+3790,37,Consent|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+3791,37,Consent|not_satisfied,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+3811,37,Consent|not_satisfied,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+3812,37,None|not_applicable,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+5201,57,Notice|not_satisfied,None|not_applicable,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+5205,57,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+5215,57,Consent|not_satisfied,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,Consent|not_applicable
+5240,57,Purpose Limitation|satisfied,Consent|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+5269,57,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+5278,57,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+5294,57,Consent|not_satisfied,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+5330,57,Purpose Limitation|satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+5350,57,Notice|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,Consent|not_applicable
+5377,57,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+5458,57,Consent|not_satisfied,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,Consent|not_applicable
+5482,57,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+5486,57,Security Safeguards|satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+5522,57,Retention and Erasure|not_satisfied,Cross-Border Transfer|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+5533,57,Grievance Redressal|not_satisfied,None|not_applicable,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable
+5611,68,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+5614,68,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+5627,68,Retention and Erasure|satisfied,None|not_applicable,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+5630,68,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+5631,68,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+5633,68,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+5648,68,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+5662,68,Withdrawal of Consent|not_satisfied,Purpose Limitation|not_satisfied,Withdrawal of Consent|satisfied,None|not_applicable,None|not_applicable
+5665,68,Notice|not_satisfied,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,None|not_applicable,Grievance Redressal|not_applicable
+5669,68,Notice|not_satisfied,Notice|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Notice|not_applicable
+5679,68,Grievance Redressal|not_satisfied,Consent|satisfied,Grievance Redressal|not_satisfied,None|not_applicable,Grievance Redressal|not_applicable
+5681,68,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+5687,68,None|not_applicable,Withdrawal of Consent|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+5688,68,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+5714,68,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+6094,73,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+6106,73,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6110,73,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6127,73,None|not_applicable,Notice|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+6129,73,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+6154,73,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+6158,73,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6159,73,None|not_applicable,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+6169,73,Consent|not_satisfied,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+6174,73,Withdrawal of Consent|not_satisfied,Withdrawal of Consent|not_satisfied,Withdrawal of Consent|satisfied,None|not_applicable,Withdrawal of Consent|not_applicable
+6211,73,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|not_satisfied,None|not_applicable,Cross-Border Transfer|not_applicable
+6275,73,Notice|not_satisfied,Notice|not_satisfied,Cross-Border Transfer|not_satisfied,None|not_applicable,Notice|not_applicable
+6289,73,None|not_applicable,Notice|not_satisfied,Breach Notification|not_satisfied,None|not_applicable,Notice|not_applicable
+6294,73,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+6349,73,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+6907,81,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+6921,81,None|not_applicable,Cross-Border Transfer|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+6939,81,None|not_applicable,Notice|not_satisfied,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+6957,81,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+7006,81,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7028,81,Purpose Limitation|not_satisfied,Security Safeguards|satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+7038,81,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Notice|not_applicable
+7045,81,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7054,81,Grievance Redressal|not_satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,None|not_applicable
+7085,81,None|not_applicable,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable
+7087,81,None|not_applicable,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+7099,81,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7107,81,Purpose Limitation|not_satisfied,Withdrawal of Consent|satisfied,Withdrawal of Consent|satisfied,None|not_applicable,Purpose Limitation|not_applicable
+7125,81,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+7151,81,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8488,122,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Breach Notification|not_applicable
+8489,122,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Breach Notification|not_applicable
+8493,122,None|not_applicable,None|not_applicable,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable
+8496,122,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8519,122,None|not_applicable,Withdrawal of Consent|satisfied,None|not_applicable,None|not_applicable,Consent|not_applicable
+8522,122,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8533,122,Consent|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8534,122,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8535,122,Consent|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8557,122,Security Safeguards|satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8561,122,None|not_applicable,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+8570,122,Withdrawal of Consent|not_satisfied,Withdrawal of Consent|satisfied,None|not_applicable,None|not_applicable,Withdrawal of Consent|not_applicable
+8584,122,None|not_applicable,Notice|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8587,122,Grievance Redressal|not_satisfied,Cross-Border Transfer|not_satisfied,Notice|not_satisfied,None|not_applicable,Grievance Redressal|not_applicable
+8590,122,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable
+8598,123,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8600,123,Consent|not_satisfied,Consent|not_satisfied,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+8602,123,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8605,123,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+8606,123,Consent|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8619,123,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+8621,123,None|not_applicable,None|not_applicable,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8623,123,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Notice|not_applicable
+8626,123,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+8648,123,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8674,123,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+8686,123,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8687,123,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8688,123,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8691,123,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,Grievance Redressal|not_satisfied,None|not_applicable,Grievance Redressal|not_applicable
+8781,125,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8782,125,Consent|not_satisfied,None|not_applicable,Consent|not_satisfied,None|not_applicable,Consent|not_applicable
+8791,125,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+8795,125,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+8800,125,Consent|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+8815,125,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|not_satisfied,Cross-Border Transfer|not_satisfied,None|not_applicable,None|not_applicable
+8828,125,Notice|not_satisfied,None|not_applicable,Notice|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+8831,125,Retention and Erasure|not_satisfied,None|not_applicable,Notice|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+8832,125,Retention and Erasure|not_satisfied,Withdrawal of Consent|not_satisfied,None|not_applicable,None|not_applicable,Retention and Erasure|not_applicable
+8834,125,None|not_applicable,None|not_applicable,Retention and Erasure|not_satisfied,None|not_applicable,None|not_applicable
+8835,125,Cross-Border Transfer|not_satisfied,Retention and Erasure|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+8853,125,None|not_applicable,Consent|satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+8871,125,None|not_applicable,Grievance Redressal|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+8873,125,None|not_applicable,None|not_applicable,Purpose Limitation|satisfied,None|not_applicable,None|not_applicable
+8879,125,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10521,149,None|not_applicable,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable
+10529,149,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10530,149,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10531,149,None|not_applicable,None|not_applicable,Consent|not_satisfied,None|not_applicable,None|not_applicable
+10542,149,Consent|not_satisfied,Consent|not_satisfied,Retention and Erasure|not_satisfied,None|not_applicable,Consent|not_applicable
+10569,149,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+10572,149,Purpose Limitation|satisfied,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+10587,149,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,Purpose Limitation|not_applicable
+10596,149,Purpose Limitation|satisfied,Consent|satisfied,Grievance Redressal|not_satisfied,None|not_applicable,None|not_applicable
+10598,149,None|not_applicable,Purpose Limitation|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+10614,149,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+10627,149,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10638,149,Security Safeguards|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable
+10640,149,None|not_applicable,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+10650,149,None|not_applicable,Consent|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,None|not_applicable
+10747,152,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10754,152,None|not_applicable,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+10778,152,Withdrawal of Consent|not_satisfied,Withdrawal of Consent|satisfied,Withdrawal of Consent|satisfied,None|not_applicable,Withdrawal of Consent|not_applicable
+10791,152,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,Security Safeguards|not_satisfied,None|not_applicable,Security Safeguards|not_applicable
+10792,152,Security Safeguards|not_satisfied,Withdrawal of Consent|not_satisfied,None|not_applicable,None|not_applicable,Security Safeguards|not_applicable
+10793,152,Security Safeguards|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10797,152,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable,None|not_applicable
+10812,152,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable,Retention and Erasure|not_applicable
+10813,152,Notice|not_satisfied,Withdrawal of Consent|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+10821,152,None|not_applicable,Notice|not_satisfied,None|not_applicable,None|not_applicable,None|not_applicable
+10823,152,Consent|not_satisfied,Purpose Limitation|not_satisfied,Consent|satisfied,None|not_applicable,Consent|not_applicable
+10834,152,Retention and Erasure|not_satisfied,Notice|not_satisfied,None|not_applicable,None|not_applicable,Retention and Erasure|not_applicable
+10840,152,Notice|not_satisfied,Notice|not_satisfied,Notice|not_satisfied,None|not_applicable,Purpose Limitation|not_applicable
+10844,152,Notice|not_satisfied,Notice|not_satisfied,Purpose Limitation|not_satisfied,None|not_applicable,Retention and Erasure|not_applicable
+10859,152,Retention and Erasure|satisfied,None|not_applicable,None|not_applicable,None|not_applicable,Retention and Erasure|not_applicable

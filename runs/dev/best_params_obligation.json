@@ -1,0 +1,19 @@
+{
+  "target": "obligation",
+  "best_params": {
+    "svm": {
+      "C": 3
+    },
+    "rf": {
+      "n": 300,
+      "depth": null,
+      "leaf": 2
+    }
+  },
+  "folds": 5,
+  "train_policies": 40,
+  "train_clauses": 600,
+  "seed": 42,
+  "sklearn": "1.9.1",
+  "python": "3.13.1"
+}

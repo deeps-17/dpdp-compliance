@@ -1,0 +1,901 @@
+﻿clause_id,policy_id,company,split,blind_check,batch
+2102,1,Flipkart,train,0,5
+2109,1,Flipkart,train,0,3
+2114,1,Flipkart,train,0,2
+2119,1,Flipkart,train,0,1
+2125,1,Flipkart,train,1,3
+2127,1,Flipkart,train,0,2
+2134,1,Flipkart,train,0,5
+2140,1,Flipkart,train,0,4
+2156,1,Flipkart,train,0,4
+2163,1,Flipkart,train,0,2
+2167,1,Flipkart,train,0,3
+2173,1,Flipkart,train,0,4
+2181,1,Flipkart,train,0,1
+2182,1,Flipkart,train,0,5
+2183,1,Flipkart,train,1,3
+2212,5,Snapdeal,train,0,1
+2219,5,Snapdeal,train,0,2
+2234,5,Snapdeal,train,0,4
+2250,5,Snapdeal,train,0,3
+2254,5,Snapdeal,train,0,1
+2261,5,Snapdeal,train,0,3
+2263,5,Snapdeal,train,0,2
+2282,5,Snapdeal,train,0,2
+2283,5,Snapdeal,train,0,3
+2284,5,Snapdeal,train,0,1
+2298,5,Snapdeal,train,0,4
+2313,5,Snapdeal,train,1,4
+2322,5,Snapdeal,train,0,4
+2337,5,Snapdeal,train,1,2
+2340,5,Snapdeal,train,0,1
+2372,8,Nykaa,train,0,1
+2379,8,Nykaa,train,0,4
+2380,8,Nykaa,train,0,2
+2392,8,Nykaa,train,0,4
+2397,8,Nykaa,train,0,3
+2425,8,Nykaa,train,0,2
+2432,8,Nykaa,train,0,5
+2438,8,Nykaa,train,0,4
+2440,8,Nykaa,train,0,1
+2444,8,Nykaa,train,0,1
+2449,8,Nykaa,train,0,2
+2453,8,Nykaa,train,0,5
+2454,8,Nykaa,train,1,5
+2459,8,Nykaa,train,0,3
+2489,8,Nykaa,train,0,1
+2505,10,BigBasket,test,0,
+2507,10,BigBasket,test,0,
+2510,10,BigBasket,test,0,
+2512,10,BigBasket,test,0,
+2516,10,BigBasket,test,0,
+2519,10,BigBasket,test,0,
+2527,10,BigBasket,test,0,
+2530,10,BigBasket,test,0,
+2533,10,BigBasket,test,0,
+2535,10,BigBasket,test,0,
+2539,10,BigBasket,test,0,
+2557,10,BigBasket,test,0,
+2574,10,BigBasket,test,0,
+2580,10,BigBasket,test,0,
+2581,10,BigBasket,test,0,
+2661,12,Shopclues,train,0,1
+2686,12,Shopclues,train,0,1
+2691,12,Shopclues,train,0,2
+2699,12,Shopclues,train,0,5
+2706,12,Shopclues,train,0,1
+2718,12,Shopclues,train,0,3
+2748,12,Shopclues,train,0,1
+2749,12,Shopclues,train,0,2
+2757,12,Shopclues,train,0,3
+2761,12,Shopclues,train,0,2
+2767,12,Shopclues,train,0,5
+2774,12,Shopclues,train,0,4
+2775,12,Shopclues,train,0,3
+2779,12,Shopclues,train,0,5
+2794,12,Shopclues,train,0,3
+2798,17,Lenskart,test,0,
+2803,17,Lenskart,test,0,
+2813,17,Lenskart,test,0,
+2830,17,Lenskart,test,0,
+2839,17,Lenskart,test,0,
+2846,17,Lenskart,test,0,
+2856,17,Lenskart,test,0,
+2860,17,Lenskart,test,0,
+2862,17,Lenskart,test,0,
+2863,17,Lenskart,test,0,
+2866,17,Lenskart,test,0,
+2875,17,Lenskart,test,0,
+2882,17,Lenskart,test,0,
+2897,17,Lenskart,test,0,
+2901,17,Lenskart,test,0,
+2915,24,DealShare,train,0,5
+2932,24,DealShare,train,0,4
+2936,24,DealShare,train,0,4
+2937,24,DealShare,train,0,4
+2940,24,DealShare,train,1,4
+2944,24,DealShare,train,0,3
+2952,24,DealShare,train,1,2
+2965,24,DealShare,train,0,4
+2974,24,DealShare,train,0,4
+3005,24,DealShare,train,0,4
+3020,24,DealShare,train,0,2
+3021,24,DealShare,train,1,1
+3032,24,DealShare,train,0,1
+3035,24,DealShare,train,0,1
+3038,24,DealShare,train,0,5
+3069,25,CashKaro,train,0,1
+3092,25,CashKaro,train,1,3
+3093,25,CashKaro,train,0,4
+3097,25,CashKaro,train,0,5
+3109,25,CashKaro,train,1,4
+3115,25,CashKaro,train,0,4
+3120,25,CashKaro,train,1,1
+3121,25,CashKaro,train,0,2
+3126,25,CashKaro,train,0,5
+3139,25,CashKaro,train,1,1
+3161,25,CashKaro,train,0,3
+3165,25,CashKaro,train,0,1
+3181,25,CashKaro,train,0,1
+3182,25,CashKaro,train,1,2
+3186,25,CashKaro,train,0,2
+3196,30,Decathlon India,train,0,4
+3197,30,Decathlon India,train,0,1
+3199,30,Decathlon India,train,1,3
+3200,30,Decathlon India,train,1,3
+3207,30,Decathlon India,train,0,3
+3210,30,Decathlon India,train,0,1
+3213,30,Decathlon India,train,1,5
+3221,30,Decathlon India,train,0,2
+3230,30,Decathlon India,train,1,3
+3234,30,Decathlon India,train,0,4
+3237,30,Decathlon India,train,0,4
+3243,30,Decathlon India,train,0,2
+3251,30,Decathlon India,train,0,5
+3259,30,Decathlon India,train,0,2
+3261,30,Decathlon India,train,0,5
+3275,31,IKEA India,train,0,4
+3287,31,IKEA India,train,0,4
+3299,31,IKEA India,train,0,3
+3303,31,IKEA India,train,0,3
+3309,31,IKEA India,train,0,5
+3313,31,IKEA India,train,0,5
+3320,31,IKEA India,train,0,1
+3333,31,IKEA India,train,0,1
+3344,31,IKEA India,train,0,5
+3352,31,IKEA India,train,0,1
+3353,31,IKEA India,train,0,1
+3354,31,IKEA India,train,0,1
+3360,31,IKEA India,train,1,1
+3365,31,IKEA India,train,0,5
+3369,31,IKEA India,train,0,2
+3373,33,Max Fashion,train,0,4
+3379,33,Max Fashion,train,0,4
+3381,33,Max Fashion,train,0,5
+3389,33,Max Fashion,train,0,4
+3390,33,Max Fashion,train,0,5
+3398,33,Max Fashion,train,0,4
+3414,33,Max Fashion,train,0,3
+3421,33,Max Fashion,train,0,4
+3423,33,Max Fashion,train,0,5
+3468,33,Max Fashion,train,0,3
+3472,33,Max Fashion,train,0,2
+3478,33,Max Fashion,train,0,4
+3481,33,Max Fashion,train,0,1
+3483,33,Max Fashion,train,0,4
+3492,33,Max Fashion,train,0,1
+3555,34,Westside,train,0,3
+3563,34,Westside,train,0,3
+3572,34,Westside,train,1,3
+3574,34,Westside,train,0,3
+3577,34,Westside,train,0,2
+3585,34,Westside,train,0,4
+3597,34,Westside,train,0,2
+3604,34,Westside,train,0,5
+3618,34,Westside,train,0,1
+3619,34,Westside,train,0,5
+3622,34,Westside,train,1,2
+3623,34,Westside,train,0,4
+3624,34,Westside,train,0,2
+3630,34,Westside,train,0,4
+3641,34,Westside,train,0,1
+3650,36,Paytm,train,0,1
+3673,36,Paytm,train,0,5
+3674,36,Paytm,train,0,3
+3677,36,Paytm,train,0,4
+3679,36,Paytm,train,0,5
+3681,36,Paytm,train,1,3
+3682,36,Paytm,train,0,5
+3694,36,Paytm,train,0,4
+3697,36,Paytm,train,0,3
+3705,36,Paytm,train,0,5
+3715,36,Paytm,train,0,2
+3717,36,Paytm,train,0,2
+3727,36,Paytm,train,0,5
+3729,36,Paytm,train,1,4
+3735,36,Paytm,train,0,1
+3742,37,PhonePe,test,0,
+3743,37,PhonePe,test,0,
+3744,37,PhonePe,test,0,
+3747,37,PhonePe,test,0,
+3754,37,PhonePe,test,0,
+3771,37,PhonePe,test,0,
+3772,37,PhonePe,test,0,
+3773,37,PhonePe,test,0,
+3782,37,PhonePe,test,0,
+3783,37,PhonePe,test,0,
+3787,37,PhonePe,test,0,
+3790,37,PhonePe,test,0,
+3791,37,PhonePe,test,0,
+3811,37,PhonePe,test,0,
+3812,37,PhonePe,test,0,
+3823,38,Google Pay India,train,0,4
+3861,38,Google Pay India,train,0,2
+3934,38,Google Pay India,train,0,3
+3935,38,Google Pay India,train,0,5
+3984,38,Google Pay India,train,0,4
+4002,38,Google Pay India,train,0,1
+4009,38,Google Pay India,train,0,3
+4057,38,Google Pay India,train,0,5
+4073,38,Google Pay India,train,0,1
+4081,38,Google Pay India,train,1,3
+4091,38,Google Pay India,train,0,1
+4094,38,Google Pay India,train,0,5
+4111,38,Google Pay India,train,0,2
+4121,38,Google Pay India,train,0,2
+4151,38,Google Pay India,train,0,4
+4173,40,Groww,train,0,2
+4174,40,Groww,train,0,1
+4199,40,Groww,train,0,2
+4204,40,Groww,train,0,2
+4220,40,Groww,train,0,2
+4233,40,Groww,train,0,4
+4235,40,Groww,train,0,2
+4242,40,Groww,train,0,2
+4246,40,Groww,train,0,4
+4248,40,Groww,train,0,1
+4264,40,Groww,train,0,1
+4271,40,Groww,train,1,4
+4278,40,Groww,train,0,1
+4291,40,Groww,train,0,2
+4303,40,Groww,train,1,3
+4330,41,Zerodha,train,1,2
+4333,41,Zerodha,train,0,5
+4334,41,Zerodha,train,1,3
+4336,41,Zerodha,train,0,3
+4341,41,Zerodha,train,0,3
+4348,41,Zerodha,train,1,1
+4352,41,Zerodha,train,0,2
+4354,41,Zerodha,train,0,2
+4360,41,Zerodha,train,0,4
+4363,41,Zerodha,train,0,2
+4376,41,Zerodha,train,0,5
+4384,41,Zerodha,train,0,2
+4388,41,Zerodha,train,0,3
+4390,41,Zerodha,train,0,3
+4414,41,Zerodha,train,0,3
+4427,42,Upstox,train,0,4
+4428,42,Upstox,train,0,2
+4452,42,Upstox,train,0,2
+4478,42,Upstox,train,0,5
+4497,42,Upstox,train,0,3
+4529,42,Upstox,train,1,4
+4551,42,Upstox,train,0,2
+4562,42,Upstox,train,1,2
+4566,42,Upstox,train,1,2
+4570,42,Upstox,train,1,3
+4574,42,Upstox,train,0,4
+4586,42,Upstox,train,0,1
+4591,42,Upstox,train,0,4
+4610,42,Upstox,train,0,5
+4638,42,Upstox,train,0,3
+4646,46,Razorpay,train,0,1
+4649,46,Razorpay,train,0,3
+4660,46,Razorpay,train,1,5
+4661,46,Razorpay,train,0,2
+4669,46,Razorpay,train,0,4
+4682,46,Razorpay,train,0,3
+4685,46,Razorpay,train,1,1
+4689,46,Razorpay,train,0,1
+4699,46,Razorpay,train,0,4
+4708,46,Razorpay,train,1,3
+4719,46,Razorpay,train,1,4
+4722,46,Razorpay,train,0,4
+4737,46,Razorpay,train,0,1
+4740,46,Razorpay,train,1,3
+4745,46,Razorpay,train,1,4
+4752,48,MobiKwik,train,0,4
+4802,48,MobiKwik,train,1,4
+4831,48,MobiKwik,train,0,1
+4842,48,MobiKwik,train,0,4
+4895,48,MobiKwik,train,0,2
+4896,48,MobiKwik,train,0,3
+4915,48,MobiKwik,train,1,4
+4940,48,MobiKwik,train,1,4
+4953,48,MobiKwik,train,0,1
+4973,48,MobiKwik,train,0,2
+4979,48,MobiKwik,train,0,4
+4990,48,MobiKwik,train,0,2
+5024,48,MobiKwik,train,0,4
+5038,48,MobiKwik,train,0,5
+5044,48,MobiKwik,train,0,2
+5061,54,Slice,train,0,2
+5071,54,Slice,train,0,2
+5073,54,Slice,train,0,3
+5075,54,Slice,train,0,2
+5089,54,Slice,train,0,3
+5095,54,Slice,train,0,4
+5101,54,Slice,train,0,3
+5108,54,Slice,train,1,2
+5110,54,Slice,train,0,2
+5112,54,Slice,train,0,1
+5122,54,Slice,train,0,2
+5132,54,Slice,train,0,4
+5146,54,Slice,train,0,1
+5162,54,Slice,train,0,3
+5165,54,Slice,train,0,4
+5201,57,KreditBee,test,0,
+5205,57,KreditBee,test,0,
+5215,57,KreditBee,test,0,
+5240,57,KreditBee,test,0,
+5269,57,KreditBee,test,0,
+5278,57,KreditBee,test,0,
+5294,57,KreditBee,test,0,
+5330,57,KreditBee,test,0,
+5350,57,KreditBee,test,0,
+5377,57,KreditBee,test,0,
+5458,57,KreditBee,test,0,
+5482,57,KreditBee,test,0,
+5486,57,KreditBee,test,0,
+5522,57,KreditBee,test,0,
+5533,57,KreditBee,test,0,
+5611,68,Pine Labs,test,0,
+5614,68,Pine Labs,test,0,
+5627,68,Pine Labs,test,0,
+5630,68,Pine Labs,test,0,
+5631,68,Pine Labs,test,0,
+5633,68,Pine Labs,test,0,
+5648,68,Pine Labs,test,0,
+5662,68,Pine Labs,test,0,
+5665,68,Pine Labs,test,0,
+5669,68,Pine Labs,test,0,
+5679,68,Pine Labs,test,0,
+5681,68,Pine Labs,test,0,
+5687,68,Pine Labs,test,0,
+5688,68,Pine Labs,test,0,
+5714,68,Pine Labs,test,0,
+5725,69,Juspay,train,0,3
+5733,69,Juspay,train,1,2
+5742,69,Juspay,train,0,1
+5743,69,Juspay,train,0,4
+5746,69,Juspay,train,0,3
+5750,69,Juspay,train,0,3
+5754,69,Juspay,train,0,1
+5757,69,Juspay,train,0,2
+5781,69,Juspay,train,1,3
+5791,69,Juspay,train,1,5
+5798,69,Juspay,train,0,5
+5817,69,Juspay,train,0,1
+5824,69,Juspay,train,0,4
+5825,69,Juspay,train,0,2
+5844,69,Juspay,train,0,3
+5865,72,BYJU'S,train,0,4
+5870,72,BYJU'S,train,0,2
+5910,72,BYJU'S,train,0,4
+5929,72,BYJU'S,train,0,5
+5931,72,BYJU'S,train,1,5
+5936,72,BYJU'S,train,1,1
+5939,72,BYJU'S,train,1,4
+5942,72,BYJU'S,train,0,5
+5958,72,BYJU'S,train,0,5
+5969,72,BYJU'S,train,0,3
+5978,72,BYJU'S,train,1,3
+6035,72,BYJU'S,train,0,1
+6069,72,BYJU'S,train,0,3
+6071,72,BYJU'S,train,0,2
+6080,72,BYJU'S,train,0,1
+6094,73,Unacademy,test,0,
+6106,73,Unacademy,test,0,
+6110,73,Unacademy,test,0,
+6127,73,Unacademy,test,0,
+6129,73,Unacademy,test,0,
+6154,73,Unacademy,test,0,
+6158,73,Unacademy,test,0,
+6159,73,Unacademy,test,0,
+6169,73,Unacademy,test,0,
+6174,73,Unacademy,test,0,
+6211,73,Unacademy,test,0,
+6275,73,Unacademy,test,0,
+6289,73,Unacademy,test,0,
+6294,73,Unacademy,test,0,
+6349,73,Unacademy,test,0,
+6358,75,Vedantu,train,0,2
+6389,75,Vedantu,train,0,5
+6401,75,Vedantu,train,0,2
+6403,75,Vedantu,train,0,2
+6407,75,Vedantu,train,0,3
+6412,75,Vedantu,train,0,2
+6413,75,Vedantu,train,0,3
+6421,75,Vedantu,train,0,4
+6434,75,Vedantu,train,0,4
+6456,75,Vedantu,train,0,4
+6458,75,Vedantu,train,0,5
+6460,75,Vedantu,train,0,1
+6474,75,Vedantu,train,1,2
+6481,75,Vedantu,train,0,5
+6485,75,Vedantu,train,0,4
+6510,76,Physics Wallah,train,0,5
+6511,76,Physics Wallah,train,0,2
+6521,76,Physics Wallah,train,1,2
+6522,76,Physics Wallah,train,0,1
+6531,76,Physics Wallah,train,0,3
+6536,76,Physics Wallah,train,0,2
+6538,76,Physics Wallah,train,0,1
+6546,76,Physics Wallah,train,0,2
+6553,76,Physics Wallah,train,0,3
+6559,76,Physics Wallah,train,0,2
+6561,76,Physics Wallah,train,0,3
+6564,76,Physics Wallah,train,0,4
+6569,76,Physics Wallah,train,0,4
+6574,76,Physics Wallah,train,1,3
+6579,76,Physics Wallah,train,0,5
+6619,80,Great Learning,train,0,4
+6624,80,Great Learning,train,0,3
+6635,80,Great Learning,train,0,1
+6656,80,Great Learning,train,0,2
+6680,80,Great Learning,train,0,3
+6698,80,Great Learning,train,0,3
+6781,80,Great Learning,train,0,5
+6783,80,Great Learning,train,1,3
+6788,80,Great Learning,train,0,1
+6814,80,Great Learning,train,0,2
+6861,80,Great Learning,train,0,2
+6864,80,Great Learning,train,0,3
+6869,80,Great Learning,train,0,4
+6883,80,Great Learning,train,0,3
+6893,80,Great Learning,train,0,1
+6907,81,Coursera India,test,0,
+6921,81,Coursera India,test,0,
+6939,81,Coursera India,test,0,
+6957,81,Coursera India,test,0,
+7006,81,Coursera India,test,0,
+7028,81,Coursera India,test,0,
+7038,81,Coursera India,test,0,
+7045,81,Coursera India,test,0,
+7054,81,Coursera India,test,0,
+7085,81,Coursera India,test,0,
+7087,81,Coursera India,test,0,
+7099,81,Coursera India,test,0,
+7107,81,Coursera India,test,0,
+7125,81,Coursera India,test,0,
+7151,81,Coursera India,test,0,
+7154,84,Testbook,train,0,5
+7157,84,Testbook,train,0,5
+7158,84,Testbook,train,0,5
+7168,84,Testbook,train,0,5
+7170,84,Testbook,train,0,5
+7171,84,Testbook,train,0,3
+7173,84,Testbook,train,1,1
+7175,84,Testbook,train,0,2
+7177,84,Testbook,train,0,2
+7188,84,Testbook,train,0,2
+7199,84,Testbook,train,0,1
+7202,84,Testbook,train,0,1
+7206,84,Testbook,train,0,4
+7207,84,Testbook,train,0,4
+7210,84,Testbook,train,1,2
+7215,87,Leverage Edu,train,0,2
+7223,87,Leverage Edu,train,0,5
+7225,87,Leverage Edu,train,0,1
+7226,87,Leverage Edu,train,0,1
+7227,87,Leverage Edu,train,0,4
+7228,87,Leverage Edu,train,0,2
+7229,87,Leverage Edu,train,0,5
+7230,87,Leverage Edu,train,1,1
+7244,87,Leverage Edu,train,0,4
+7252,87,Leverage Edu,train,0,3
+7261,87,Leverage Edu,train,0,5
+7262,87,Leverage Edu,train,1,1
+7264,87,Leverage Edu,train,0,1
+7266,87,Leverage Edu,train,0,5
+7270,87,Leverage Edu,train,0,3
+7296,88,Scaler,train,0,2
+7303,88,Scaler,train,0,1
+7306,88,Scaler,train,0,4
+7316,88,Scaler,train,0,2
+7319,88,Scaler,train,0,5
+7334,88,Scaler,train,1,2
+7356,88,Scaler,train,0,4
+7369,88,Scaler,train,0,4
+7372,88,Scaler,train,0,2
+7375,88,Scaler,train,0,2
+7397,88,Scaler,train,0,3
+7418,88,Scaler,train,0,3
+7431,88,Scaler,train,0,3
+7438,88,Scaler,train,0,1
+7439,88,Scaler,train,0,3
+7489,90,Newton School,train,0,2
+7492,90,Newton School,train,0,1
+7495,90,Newton School,train,0,3
+7505,90,Newton School,train,1,3
+7507,90,Newton School,train,0,4
+7514,90,Newton School,train,0,5
+7517,90,Newton School,train,1,4
+7521,90,Newton School,train,0,3
+7525,90,Newton School,train,0,2
+7528,90,Newton School,train,0,1
+7532,90,Newton School,train,0,1
+7538,90,Newton School,train,0,5
+7539,90,Newton School,train,0,4
+7546,90,Newton School,train,0,3
+7547,90,Newton School,train,0,4
+7598,93,GeeksforGeeks,train,0,4
+7602,93,GeeksforGeeks,train,0,3
+7637,93,GeeksforGeeks,train,0,3
+7659,93,GeeksforGeeks,train,0,5
+7681,93,GeeksforGeeks,train,1,2
+7711,93,GeeksforGeeks,train,0,4
+7714,93,GeeksforGeeks,train,0,4
+7730,93,GeeksforGeeks,train,0,1
+7735,93,GeeksforGeeks,train,1,3
+7744,93,GeeksforGeeks,train,0,1
+7753,93,GeeksforGeeks,train,0,5
+7814,93,GeeksforGeeks,train,0,2
+7834,93,GeeksforGeeks,train,0,1
+7836,93,GeeksforGeeks,train,0,5
+7838,93,GeeksforGeeks,train,0,5
+7840,102,Classplus,train,0,4
+7843,102,Classplus,train,0,5
+7848,102,Classplus,train,0,5
+7852,102,Classplus,train,1,5
+7858,102,Classplus,train,1,5
+7869,102,Classplus,train,0,4
+7873,102,Classplus,train,0,4
+7893,102,Classplus,train,0,1
+7917,102,Classplus,train,0,4
+7922,102,Classplus,train,0,2
+7923,102,Classplus,train,0,5
+7934,102,Classplus,train,0,1
+7935,102,Classplus,train,0,3
+7940,102,Classplus,train,0,4
+7944,102,Classplus,train,0,3
+7952,109,Blinkit,train,0,4
+7961,109,Blinkit,train,1,4
+7965,109,Blinkit,train,0,5
+7995,109,Blinkit,train,0,5
+8002,109,Blinkit,train,0,5
+8006,109,Blinkit,train,0,1
+8027,109,Blinkit,train,0,2
+8029,109,Blinkit,train,0,3
+8060,109,Blinkit,train,0,3
+8061,109,Blinkit,train,0,4
+8071,109,Blinkit,train,0,5
+8085,109,Blinkit,train,0,1
+8088,109,Blinkit,train,0,3
+8094,109,Blinkit,train,0,1
+8099,109,Blinkit,train,0,3
+8114,111,Swiggy Instamart,train,0,5
+8140,111,Swiggy Instamart,train,1,2
+8157,111,Swiggy Instamart,train,0,1
+8165,111,Swiggy Instamart,train,0,1
+8168,111,Swiggy Instamart,train,0,4
+8171,111,Swiggy Instamart,train,0,1
+8174,111,Swiggy Instamart,train,0,1
+8178,111,Swiggy Instamart,train,0,5
+8179,111,Swiggy Instamart,train,0,5
+8183,111,Swiggy Instamart,train,0,4
+8190,111,Swiggy Instamart,train,0,3
+8211,111,Swiggy Instamart,train,0,4
+8214,111,Swiggy Instamart,train,0,4
+8219,111,Swiggy Instamart,train,0,4
+8224,111,Swiggy Instamart,train,0,4
+8228,115,FreshToHome,train,0,5
+8232,115,FreshToHome,train,0,4
+8236,115,FreshToHome,train,0,2
+8237,115,FreshToHome,train,0,4
+8240,115,FreshToHome,train,0,2
+8242,115,FreshToHome,train,0,2
+8248,115,FreshToHome,train,0,4
+8255,115,FreshToHome,train,0,3
+8273,115,FreshToHome,train,0,1
+8283,115,FreshToHome,train,0,3
+8286,115,FreshToHome,train,0,2
+8292,115,FreshToHome,train,0,2
+8293,115,FreshToHome,train,0,1
+8301,115,FreshToHome,train,0,1
+8303,115,FreshToHome,train,0,5
+8330,116,Licious,train,1,1
+8331,116,Licious,train,0,1
+8348,116,Licious,train,0,2
+8351,116,Licious,train,0,4
+8354,116,Licious,train,0,2
+8355,116,Licious,train,0,3
+8356,116,Licious,train,0,1
+8376,116,Licious,train,0,1
+8387,116,Licious,train,0,1
+8388,116,Licious,train,0,2
+8398,116,Licious,train,0,4
+8400,116,Licious,train,0,2
+8407,116,Licious,train,0,2
+8408,116,Licious,train,0,1
+8410,116,Licious,train,0,5
+8412,119,EatFit,train,0,2
+8419,119,EatFit,train,0,4
+8427,119,EatFit,train,1,3
+8429,119,EatFit,train,1,3
+8430,119,EatFit,train,0,4
+8435,119,EatFit,train,0,3
+8437,119,EatFit,train,1,3
+8439,119,EatFit,train,0,2
+8445,119,EatFit,train,0,4
+8446,119,EatFit,train,0,2
+8452,119,EatFit,train,0,2
+8454,119,EatFit,train,0,1
+8456,119,EatFit,train,0,4
+8468,119,EatFit,train,0,3
+8471,119,EatFit,train,0,3
+8488,122,Freshmenu,test,0,
+8489,122,Freshmenu,test,0,
+8493,122,Freshmenu,test,0,
+8496,122,Freshmenu,test,0,
+8519,122,Freshmenu,test,0,
+8522,122,Freshmenu,test,0,
+8533,122,Freshmenu,test,0,
+8534,122,Freshmenu,test,0,
+8535,122,Freshmenu,test,0,
+8557,122,Freshmenu,test,0,
+8561,122,Freshmenu,test,0,
+8570,122,Freshmenu,test,0,
+8584,122,Freshmenu,test,0,
+8587,122,Freshmenu,test,0,
+8590,122,Freshmenu,test,0,
+8598,123,Rebel Foods,test,0,
+8600,123,Rebel Foods,test,0,
+8602,123,Rebel Foods,test,0,
+8605,123,Rebel Foods,test,0,
+8606,123,Rebel Foods,test,0,
+8619,123,Rebel Foods,test,0,
+8621,123,Rebel Foods,test,0,
+8623,123,Rebel Foods,test,0,
+8626,123,Rebel Foods,test,0,
+8648,123,Rebel Foods,test,0,
+8674,123,Rebel Foods,test,0,
+8686,123,Rebel Foods,test,0,
+8687,123,Rebel Foods,test,0,
+8688,123,Rebel Foods,test,0,
+8691,123,Rebel Foods,test,0,
+8696,124,DotPe,train,0,2
+8697,124,DotPe,train,0,4
+8703,124,DotPe,train,0,5
+8713,124,DotPe,train,0,4
+8716,124,DotPe,train,0,5
+8719,124,DotPe,train,0,1
+8725,124,DotPe,train,0,2
+8733,124,DotPe,train,0,3
+8741,124,DotPe,train,0,3
+8743,124,DotPe,train,0,5
+8748,124,DotPe,train,1,5
+8759,124,DotPe,train,0,5
+8770,124,DotPe,train,0,1
+8772,124,DotPe,train,0,1
+8775,124,DotPe,train,0,1
+8781,125,Shadowfax,test,0,
+8782,125,Shadowfax,test,0,
+8791,125,Shadowfax,test,0,
+8795,125,Shadowfax,test,0,
+8800,125,Shadowfax,test,0,
+8815,125,Shadowfax,test,0,
+8828,125,Shadowfax,test,0,
+8831,125,Shadowfax,test,0,
+8832,125,Shadowfax,test,0,
+8834,125,Shadowfax,test,0,
+8835,125,Shadowfax,test,0,
+8853,125,Shadowfax,test,0,
+8871,125,Shadowfax,test,0,
+8873,125,Shadowfax,test,0,
+8879,125,Shadowfax,test,0,
+8902,129,Reliance Smart Bazaar,train,0,5
+8905,129,Reliance Smart Bazaar,train,1,5
+8917,129,Reliance Smart Bazaar,train,0,4
+8932,129,Reliance Smart Bazaar,train,0,4
+8933,129,Reliance Smart Bazaar,train,0,3
+8942,129,Reliance Smart Bazaar,train,0,1
+8949,129,Reliance Smart Bazaar,train,1,2
+8950,129,Reliance Smart Bazaar,train,0,5
+8954,129,Reliance Smart Bazaar,train,0,3
+8955,129,Reliance Smart Bazaar,train,0,4
+8974,129,Reliance Smart Bazaar,train,0,5
+8990,129,Reliance Smart Bazaar,train,0,4
+8995,129,Reliance Smart Bazaar,train,0,2
+8997,129,Reliance Smart Bazaar,train,0,3
+9004,129,Reliance Smart Bazaar,train,0,4
+9007,130,Spencer's,train,0,5
+9013,130,Spencer's,train,0,2
+9014,130,Spencer's,train,0,3
+9015,130,Spencer's,train,0,4
+9017,130,Spencer's,train,0,1
+9018,130,Spencer's,train,0,1
+9022,130,Spencer's,train,0,1
+9024,130,Spencer's,train,0,1
+9028,130,Spencer's,train,0,5
+9034,130,Spencer's,train,0,5
+9035,130,Spencer's,train,0,2
+9039,130,Spencer's,train,0,5
+9040,130,Spencer's,train,1,4
+9043,130,Spencer's,train,0,4
+9048,130,Spencer's,train,0,2
+9050,131,BB Daily,train,0,5
+9051,131,BB Daily,train,0,3
+9061,131,BB Daily,train,0,2
+9063,131,BB Daily,train,1,5
+9075,131,BB Daily,train,1,1
+9082,131,BB Daily,train,0,3
+9113,131,BB Daily,train,0,1
+9118,131,BB Daily,train,1,4
+9156,131,BB Daily,train,0,1
+9160,131,BB Daily,train,0,3
+9170,131,BB Daily,train,0,4
+9174,131,BB Daily,train,0,1
+9198,131,BB Daily,train,0,5
+9204,131,BB Daily,train,0,1
+9210,131,BB Daily,train,0,2
+9224,138,Cleartrip,train,1,1
+9233,138,Cleartrip,train,0,2
+9240,138,Cleartrip,train,0,5
+9242,138,Cleartrip,train,0,3
+9251,138,Cleartrip,train,1,1
+9270,138,Cleartrip,train,0,3
+9278,138,Cleartrip,train,1,3
+9284,138,Cleartrip,train,0,4
+9290,138,Cleartrip,train,1,2
+9292,138,Cleartrip,train,0,1
+9310,138,Cleartrip,train,0,1
+9314,138,Cleartrip,train,0,3
+9325,138,Cleartrip,train,0,3
+9328,138,Cleartrip,train,0,5
+9331,138,Cleartrip,train,0,2
+9346,140,EaseMyTrip,train,0,3
+9347,140,EaseMyTrip,train,0,3
+9355,140,EaseMyTrip,train,0,3
+9399,140,EaseMyTrip,train,0,5
+9402,140,EaseMyTrip,train,0,3
+9409,140,EaseMyTrip,train,1,3
+9431,140,EaseMyTrip,train,0,1
+9439,140,EaseMyTrip,train,0,2
+9442,140,EaseMyTrip,train,0,2
+9446,140,EaseMyTrip,train,0,2
+9464,140,EaseMyTrip,train,1,3
+9465,140,EaseMyTrip,train,0,3
+9478,140,EaseMyTrip,train,0,1
+9485,140,EaseMyTrip,train,0,1
+9490,140,EaseMyTrip,train,0,3
+9522,141,Ola,train,0,1
+9530,141,Ola,train,0,3
+9534,141,Ola,train,0,1
+9535,141,Ola,train,0,1
+9539,141,Ola,train,1,1
+9543,141,Ola,train,0,1
+9551,141,Ola,train,0,1
+9589,141,Ola,train,0,1
+9632,141,Ola,train,0,3
+9633,141,Ola,train,0,3
+9643,141,Ola,train,0,2
+9681,141,Ola,train,1,1
+9685,141,Ola,train,1,4
+9692,141,Ola,train,0,2
+9697,141,Ola,train,0,3
+9756,144,BlaBlaCar India,train,0,4
+9765,144,BlaBlaCar India,train,0,4
+9767,144,BlaBlaCar India,train,1,4
+9776,144,BlaBlaCar India,train,0,1
+9794,144,BlaBlaCar India,train,0,1
+9799,144,BlaBlaCar India,train,0,1
+9802,144,BlaBlaCar India,train,0,5
+9804,144,BlaBlaCar India,train,0,1
+9864,144,BlaBlaCar India,train,0,3
+9868,144,BlaBlaCar India,train,0,1
+9915,144,BlaBlaCar India,train,0,1
+9947,144,BlaBlaCar India,train,0,5
+9955,144,BlaBlaCar India,train,0,5
+10003,144,BlaBlaCar India,train,0,2
+10032,144,BlaBlaCar India,train,0,1
+10049,145,Zoomcar,train,0,5
+10072,145,Zoomcar,train,0,4
+10074,145,Zoomcar,train,0,5
+10106,145,Zoomcar,train,0,5
+10137,145,Zoomcar,train,1,2
+10171,145,Zoomcar,train,0,2
+10173,145,Zoomcar,train,1,4
+10195,145,Zoomcar,train,0,2
+10203,145,Zoomcar,train,0,2
+10241,145,Zoomcar,train,0,1
+10248,145,Zoomcar,train,0,1
+10267,145,Zoomcar,train,0,3
+10398,145,Zoomcar,train,0,3
+10475,145,Zoomcar,train,0,5
+10497,145,Zoomcar,train,0,3
+10521,149,AbhiBus,test,0,
+10529,149,AbhiBus,test,0,
+10530,149,AbhiBus,test,0,
+10531,149,AbhiBus,test,0,
+10542,149,AbhiBus,test,0,
+10569,149,AbhiBus,test,0,
+10572,149,AbhiBus,test,0,
+10587,149,AbhiBus,test,0,
+10596,149,AbhiBus,test,0,
+10598,149,AbhiBus,test,0,
+10614,149,AbhiBus,test,0,
+10627,149,AbhiBus,test,0,
+10638,149,AbhiBus,test,0,
+10640,149,AbhiBus,test,0,
+10650,149,AbhiBus,test,0,
+10670,151,Treebo,train,0,2
+10672,151,Treebo,train,0,3
+10677,151,Treebo,train,0,2
+10685,151,Treebo,train,0,1
+10691,151,Treebo,train,0,2
+10697,151,Treebo,train,0,2
+10699,151,Treebo,train,0,4
+10706,151,Treebo,train,0,2
+10709,151,Treebo,train,0,4
+10712,151,Treebo,train,0,5
+10716,151,Treebo,train,0,1
+10721,151,Treebo,train,0,2
+10732,151,Treebo,train,0,2
+10735,151,Treebo,train,0,1
+10736,151,Treebo,train,0,1
+10747,152,FabHotels,test,0,
+10754,152,FabHotels,test,0,
+10778,152,FabHotels,test,0,
+10791,152,FabHotels,test,0,
+10792,152,FabHotels,test,0,
+10793,152,FabHotels,test,0,
+10797,152,FabHotels,test,0,
+10812,152,FabHotels,test,0,
+10813,152,FabHotels,test,0,
+10821,152,FabHotels,test,0,
+10823,152,FabHotels,test,0,
+10834,152,FabHotels,test,0,
+10840,152,FabHotels,test,0,
+10844,152,FabHotels,test,0,
+10859,152,FabHotels,test,0,
+10864,153,Airbnb India,train,0,3
+10885,153,Airbnb India,train,0,5
+10899,153,Airbnb India,train,0,3
+10912,153,Airbnb India,train,0,4
+11002,153,Airbnb India,train,1,3
+11043,153,Airbnb India,train,1,1
+11047,153,Airbnb India,train,0,2
+11070,153,Airbnb India,train,1,2
+11077,153,Airbnb India,train,0,4
+11081,153,Airbnb India,train,1,4
+11117,153,Airbnb India,train,0,2
+11134,153,Airbnb India,train,0,4
+11144,153,Airbnb India,train,0,2
+11147,153,Airbnb India,train,0,3
+11149,153,Airbnb India,train,0,1
+11195,156,Booking.com India,train,0,5
+11215,156,Booking.com India,train,0,4
+11293,156,Booking.com India,train,1,5
+11353,156,Booking.com India,train,0,3
+11359,156,Booking.com India,train,0,5
+11387,156,Booking.com India,train,0,4
+11396,156,Booking.com India,train,0,1
+11424,156,Booking.com India,train,0,2
+11429,156,Booking.com India,train,0,2
+11440,156,Booking.com India,train,0,5
+11479,156,Booking.com India,train,1,3
+11495,156,Booking.com India,train,0,3
+11553,156,Booking.com India,train,0,1
+11561,156,Booking.com India,train,0,4
+11597,156,Booking.com India,train,0,5
+11633,157,Ixigo,train,0,5
+11641,157,Ixigo,train,0,3
+11642,157,Ixigo,train,0,3
+11644,157,Ixigo,train,1,3
+11648,157,Ixigo,train,0,4
+11661,157,Ixigo,train,0,4
+11666,157,Ixigo,train,0,2
+11673,157,Ixigo,train,1,4
+11680,157,Ixigo,train,0,1
+11700,157,Ixigo,train,0,5
+11702,157,Ixigo,train,0,2
+11705,157,Ixigo,train,0,5
+11711,157,Ixigo,train,0,2
+11712,157,Ixigo,train,0,3
+11713,157,Ixigo,train,0,4
+11731,158,SpiceJet,train,0,1
+11737,158,SpiceJet,train,1,4
+11742,158,SpiceJet,train,1,5
+11750,158,SpiceJet,train,0,2
+11762,158,SpiceJet,train,0,3
+11771,158,SpiceJet,train,0,1
+11774,158,SpiceJet,train,0,5
+11779,158,SpiceJet,train,0,4
+11783,158,SpiceJet,train,1,4
+11798,158,SpiceJet,train,0,3
+11802,158,SpiceJet,train,0,3
+11807,158,SpiceJet,train,0,3
+11815,158,SpiceJet,train,0,2
+11832,158,SpiceJet,train,0,1
+11835,158,SpiceJet,train,0,3
