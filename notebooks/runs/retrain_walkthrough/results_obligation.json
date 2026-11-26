@@ -1,0 +1,44 @@
+{
+  "target": "obligation",
+  "class_counts": {
+    "purpose limitation": 235,
+    "notice": 201,
+    "consent": 91,
+    "grievance redressal": 51,
+    "cross-border transfer": 50,
+    "breach notification": 50,
+    "retention and erasure": 49,
+    "children's data": 49,
+    "withdrawal of consent": 46,
+    "security safeguards": 46,
+    "none": 46
+  },
+  "cv_macro_f1": {
+    "svm + synthetic": {
+      "mean": 0.7697012956980627,
+      "sd": 0.026756986741594126
+    },
+    "svm (real only)": {
+      "mean": 0.7358918949605132,
+      "sd": 0.06484729319763412
+    },
+    "rf + synthetic": {
+      "mean": 0.7272467744189162,
+      "sd": 0.057572225378508764
+    },
+    "rf (real only)": {
+      "mean": 0.7113727933745145,
+      "sd": 0.06445083074110967
+    }
+  },
+  "test_round2": {
+    "svm": {
+      "macro_f1": 0.7778794928423763,
+      "acc": 0.7513513513513513
+    },
+    "rf": {
+      "macro_f1": 0.7004598162897181,
+      "acc": 0.7027027027027027
+    }
+  }
+}

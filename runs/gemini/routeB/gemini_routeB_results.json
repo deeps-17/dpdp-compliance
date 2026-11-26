@@ -1,0 +1,14 @@
+{
+  "model": "gemini-3.6-flash",
+  "n": 185,
+  "invalid_answers": 10,
+  "macro_f1": 0.81256856005129,
+  "accuracy": 0.8540540540540541,
+  "macro_f1_ci95_policy_bootstrap": [
+    0.7473904243204719,
+    0.8434401733484528
+  ],
+  "mean_latency_ms": 35990.287550075634,
+  "total_input_tokens": 174745,
+  "total_output_tokens": 94347
+}

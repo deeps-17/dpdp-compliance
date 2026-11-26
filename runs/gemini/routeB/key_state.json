@@ -1,0 +1,26 @@
+{
+  "2": {
+    "date_pt": "2026-11-21",
+    "reason": "key rejected (invalid or no permission)"
+  },
+  "6": {
+    "date_pt": "2026-11-21",
+    "reason": "daily quota used up"
+  },
+  "1": {
+    "date_pt": "2026-11-22",
+    "reason": "daily quota used up"
+  },
+  "3": {
+    "date_pt": "2026-11-22",
+    "reason": "key rejected (invalid or no permission)"
+  },
+  "4": {
+    "date_pt": "2026-11-21",
+    "reason": "key rejected (invalid or no permission)"
+  },
+  "5": {
+    "date_pt": "2026-11-21",
+    "reason": "daily quota used up"
+  }
+}

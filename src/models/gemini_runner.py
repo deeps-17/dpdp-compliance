@@ -61,7 +61,7 @@ RULES
 
 OUTPUT
 Return JSON only, with no other text:
-{"obligation": "<one of: Notice, Consent, Withdrawal of Consent, Purpose Limitation, Security Safeguards, Breach Notification, Retention and Erasure, Grievance Redressal, Childrens Data, Cross-Border Transfer, None>", "status": "<satisfied | not_satisfied | not_applicable>", "reason": "<under 20 words>"}
+{"obligation": "<one of: Notice, Consent, Withdrawal of Consent, Purpose Limitation, Security Safeguards, Breach Notification, Retention and Erasure, Grievance Redressal, Children's Data, Cross-Border Transfer, None>", "status": "<satisfied | not_satisfied | not_applicable>", "reason": "<under 20 words>"}
 
 CLAUSE
 {clause_text}

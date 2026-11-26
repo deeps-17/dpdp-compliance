@@ -1,0 +1,9 @@
+{
+  "model": "gemini-3.6-flash",
+  "prompt_version": "v1",
+  "prompt_sha256_12": "07d5de03bd91",
+  "temperature": 0,
+  "runs_per_clause": 1,
+  "first_started": "2026-11-19 17:23:25",
+  "python": "3.13.1"
+}

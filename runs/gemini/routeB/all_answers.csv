@@ -1,0 +1,606 @@
+clause_id,key_slot,obligation,status,reason,valid,error,latency_ms,input_tokens,output_tokens,raw
+C168,3,Retention and Erasure,satisfied,Specifies a clear retention trigger of 30 days post-service necessity alongside legal compliance exceptions.,1,,49728.69563102722,908,285,"{""obligation"": ""Retention and Erasure"", ""status"": ""satisfied"", ""reason"": ""Specifies a clear retention trigger of 30 days post-service necessity alongside legal compliance exceptions.""}"
+C067,3,Grievance Redressal,not_satisfied,"Mentions a grievance officer but lacks specific contact details, name, and response timeframe in the clause.",1,,47300.267934799194,924,493,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions a grievance officer but lacks specific contact details, name, and response timeframe in the clause.""
+}"
+C008,3,Security Safeguards,not_satisfied,Uses generic terms like 'stringent security measures' without specifying concrete technical safeguards such as encryption or access controls.,1,,41584.54895019531,927,584,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses generic terms like 'stringent security measures' without specifying concrete technical safeguards such as encryption or access controls.""
+}"
+C185,3,Cross-Border Transfer,not_satisfied,Mentions cross-border data transfers but fails to specify the legal basis or safeguards.,1,,31728.755474090576,950,524,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions cross-border data transfers but fails to specify the legal basis or safeguards.""
+}"
+C170,3,Purpose Limitation,not_satisfied,Restricts third parties to specified purposes but does not explicitly state what those specific purposes are.,1,,54012.786626815796,917,841,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Restricts third parties to specified purposes but does not explicitly state what those specific purposes are.""}"
+C026,3,Security Safeguards,satisfied,"Describes concrete security measures including SSL encryption, firewalls, malware scanning, and vulnerability checks.",1,,46313.11631202698,1067,175,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Describes concrete security measures including SSL encryption, firewalls, malware scanning, and vulnerability checks.""}"
+C116,3,None,not_applicable,This clause contains general cookie descriptions and browser management instructions.,1,,20423.733234405518,967,351,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This clause contains general cookie descriptions and browser management instructions.""
+}"
+C104,5,Purpose Limitation,not_satisfied,Uses open-ended language like 'compatible purposes' and allows adding purposes without defining specific limited purposes.,1,,47630.84006309509,925,464,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses open-ended language like 'compatible purposes' and allows adding purposes without defining specific limited purposes.""
+}"
+C182,5,Withdrawal of Consent,satisfied,Provides a clear email method to withdraw consent and explains that revocation operates prospectively.,1,,39990.0963306427,982,464,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Provides a clear email method to withdraw consent and explains that revocation operates prospectively.""
+}"
+C038,5,Retention and Erasure,not_satisfied,Uses vague 'as long as necessary' language without specifying a specific time period or clear deletion trigger.,1,,42270.421504974365,893,266,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Uses vague 'as long as necessary' language without specifying a specific time period or clear deletion trigger.""}"
+C184,5,Children's Data,not_satisfied,Lacks a verifiable parental consent mechanism for under-18s and fails to prohibit tracking or targeted advertising.,0,unknown_obligation,54568.99881362915,1060,731,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lacks a verifiable parental consent mechanism for under-18s and fails to prohibit tracking or targeted advertising.""
+}"
+C055,5,Retention and Erasure,not_satisfied,"Uses open-ended language like 'as long as reasonably necessary' without specifying a clear, concrete retention period.",1,,35511.26170158386,1019,476,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Uses open-ended language like 'as long as reasonably necessary' without specifying a clear, concrete retention period.""}"
+C095,5,Consent,not_satisfied,"Does not specify clear affirmative action, plain language, or how consent is requested.",1,,53191.66111946106,879,737,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not specify clear affirmative action, plain language, or how consent is requested.""
+}"
+C183,5,Grievance Redressal,not_satisfied,Provides a generic email without specifying a named Grievance Officer or a response timeframe.,1,,40187.689542770386,905,359,"{""obligation"": ""Grievance Redressal"", ""status"": ""not_satisfied"", ""reason"": ""Provides a generic email without specifying a named Grievance Officer or a response timeframe.""}"
+C021,5,Retention and Erasure,satisfied,Provides a clear process and specific timeframe (immediately and within a year) for deleting personal data.,1,,55181.55097961426,917,538,"{""obligation"": ""Retention and Erasure"", ""status"": ""satisfied"", ""reason"": ""Provides a clear process and specific timeframe (immediately and within a year) for deleting personal data.""}"
+C154,5,Retention and Erasure,not_satisfied,Provides a deletion request method but lacks specific retention periods or deletion timelines.,1,,22789.86358642578,896,1328,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Provides a deletion request method but lacks specific retention periods or deletion timelines.""}"
+C056,5,Cross-Border Transfer,satisfied,States data may be transferred abroad and specifies the legal and safeguard basis for such transfers.,1,,45973.08802604675,925,306,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""satisfied"",
+  ""reason"": ""States data may be transferred abroad and specifies the legal and safeguard basis for such transfers.""
+}"
+C099,5,Security Safeguards,satisfied,Describes concrete security measures including encryption and role-based access controls.,1,,38251.70874595642,899,229,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Describes concrete security measures including encryption and role-based access controls.""
+}"
+C039,5,Security Safeguards,satisfied,"Mentions concrete technical and organizational measures including encryption, access controls, and security assessments.",1,,31909.00182723999,883,276,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Mentions concrete technical and organizational measures including encryption, access controls, and security assessments.""}"
+C127,5,Withdrawal of Consent,not_satisfied,"States the right and effects of withdrawal, but fails to provide a specific method to withdraw consent.",1,,5910.26759147644,949,289,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""not_satisfied"", ""reason"": ""States the right and effects of withdrawal, but fails to provide a specific method to withdraw consent.""}"
+C053,5,Consent,not_satisfied,"Uses implied consent based on service usage rather than explicit, clear affirmative action.",1,,34543.67208480835,907,253,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Uses implied consent based on service usage rather than explicit, clear affirmative action.""}"
+C068,1,Consent,not_satisfied,"Bundles broad ongoing collection purposes into general policy acceptance without requiring explicit, specific consent.",1,,70363.45887184143,1147,689,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Bundles broad ongoing collection purposes into general policy acceptance without requiring explicit, specific consent.""}"
+C010,1,Purpose Limitation,satisfied,States a specific purpose of serving targeted advertisements without using open-ended catch-all language.,1,,79330.8117389679,910,1193,"{""obligation"": ""Purpose Limitation"", ""status"": ""satisfied"", ""reason"": ""States a specific purpose of serving targeted advertisements without using open-ended catch-all language.""}"
+C025,1,Cross-Border Transfer,not_satisfied,Mentions data processing in the United States but does not state the legal basis for transfer.,1,,38665.11106491089,945,877,"{""obligation"": ""Cross-Border Transfer"", ""status"": ""not_satisfied"", ""reason"": ""Mentions data processing in the United States but does not state the legal basis for transfer.""}"
+C178,1,Cross-Border Transfer,satisfied,States data may be transferred outside country of residence and specifies contractual safeguards as the basis.,1,,61325.22797584534,966,647,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""satisfied"",
+  ""reason"": ""States data may be transferred outside country of residence and specifies contractual safeguards as the basis.""
+}"
+C153,1,Purpose Limitation,satisfied,Limits third-party data processing strictly to specified purposes such as hosting services.,1,,28351.604223251343,927,911,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Limits third-party data processing strictly to specified purposes such as hosting services.""
+}"
+C090,1,Cross-Border Transfer,not_satisfied,Mentions data processing in other jurisdictions but fails to specify any legal basis or safeguards.,1,,26729.292392730713,949,552,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions data processing in other jurisdictions but fails to specify any legal basis or safeguards.""
+}"
+C047,6,Retention and Erasure,not_satisfied,Uses 'as long as necessary' without specifying a concrete retention timeframe or trigger.,1,,66422.73163795471,890,306,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Uses 'as long as necessary' without specifying a concrete retention timeframe or trigger.""}"
+C034,6,Grievance Redressal,not_satisfied,Generic contact email provided without naming a Grievance Officer or specifying a response timeframe.,1,,62937.8445148468,887,477,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Generic contact email provided without naming a Grievance Officer or specifying a response timeframe.""
+}"
+C004,6,Purpose Limitation,satisfied,"States specific purposes for collecting and using personal data clearly without using broad, unstated catch-all phrases.",1,,68271.3406085968,1105,713,"{""obligation"": ""Purpose Limitation"", ""status"": ""satisfied"", ""reason"": ""States specific purposes for collecting and using personal data clearly without using broad, unstated catch-all phrases.""}"
+C128,6,Grievance Redressal,not_satisfied,"Provides a privacy email and timeframe, but does not name a specific Grievance Officer or DPO.",1,,73110.89825630188,958,657,"{""obligation"": ""Grievance Redressal"", ""status"": ""not_satisfied"", ""reason"": ""Provides a privacy email and timeframe, but does not name a specific Grievance Officer or DPO.""}"
+C163,6,Retention and Erasure,satisfied,States a specific 12-month retention period and a clear deletion timeframe upon receiving a request.,1,,82965.38352966309,950,261,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""satisfied"",
+  ""reason"": ""States a specific 12-month retention period and a clear deletion timeframe upon receiving a request.""
+}"
+C051,6,Consent,not_satisfied,"Implies consent through website usage rather than obtaining explicit, clear affirmative action.",1,,66847.5694656372,936,609,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Implies consent through website usage rather than obtaining explicit, clear affirmative action.""}"
+C082,6,Cross-Border Transfer,satisfied,States data will be transferred outside the country and specifies the legal basis (performance of a contract).,1,,55804.375886917114,1005,494,"{""obligation"": ""Cross-Border Transfer"", ""status"": ""satisfied"", ""reason"": ""States data will be transferred outside the country and specifies the legal basis (performance of a contract).""}"
+C009,6,Withdrawal of Consent,not_satisfied,Provides an email to opt out of marketing without detailing consequences or a process as easy as giving consent.,1,,31356.46891593933,932,785,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Provides an email to opt out of marketing without detailing consequences or a process as easy as giving consent.""
+}"
+C157,6,Consent,not_satisfied,"Deems browsing as consent, violating the requirement for explicit, clear affirmative action.",1,,40532.10425376892,924,583,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Deems browsing as consent, violating the requirement for explicit, clear affirmative action.""}"
+C132,6,Security Safeguards,not_satisfied,Uses generic language ('appropriate means') without detailing specific technical or organizational security measures.,1,,85601.40776634216,889,404,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses generic language ('appropriate means') without detailing specific technical or organizational security measures.""
+}"
+C102,6,None,not_applicable,"Addresses privacy policy updates and notification of changes, which does not map to a specific DPDP obligation.",1,,50964.28298950195,892,267,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""Addresses privacy policy updates and notification of changes, which does not map to a specific DPDP obligation.""
+}"
+C147,6,Grievance Redressal,not_satisfied,Names a Grievance Officer and contact details but lacks a response timeframe.,1,,67140.71869850159,900,461,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Names a Grievance Officer and contact details but lacks a response timeframe.""
+}"
+C166,6,Consent,not_satisfied,Implies consent merely from using the service rather than requiring a clear affirmative action.,1,,74764.55211639404,903,199,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Implies consent merely from using the service rather than requiring a clear affirmative action.""
+}"
+C177,6,Retention and Erasure,not_satisfied,States data will be kept no longer than necessary without specifying a concrete retention period or deletion trigger.,1,,54302.15525627136,1002,407,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""States data will be kept no longer than necessary without specifying a concrete retention period or deletion trigger.""}"
+C165,6,None,not_applicable,"Standard third-party disclaimer regarding external links and policies, no DPDP obligation applies.",1,,14216.0484790802,894,298,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""Standard third-party disclaimer regarding external links and policies, no DPDP obligation applies.""
+}"
+C028,1,Children's Data,not_satisfied,Lacks details on verifiable parental consent mechanisms and fails to prohibit tracking or targeted advertising for children.,0,unknown_obligation,70676.5968799591,999,704,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lacks details on verifiable parental consent mechanisms and fails to prohibit tracking or targeted advertising for children.""
+}"
+C052,1,Children's Data,not_satisfied,Requires parental consent via mobile number but fails to prohibit tracking or targeted advertising for children.,0,unknown_obligation,8070.262908935547,1057,557,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Requires parental consent via mobile number but fails to prohibit tracking or targeted advertising for children.""
+}"
+C085,1,Withdrawal of Consent,not_satisfied,States the right to stop processing for marketing but does not specify how to withdraw consent.,1,,89217.8282737732,900,557,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""States the right to stop processing for marketing but does not specify how to withdraw consent.""
+}"
+C033,1,None,not_applicable,Standard legal disclaimer regarding third-party links and external website content.,1,,35211.074352264404,963,295,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""Standard legal disclaimer regarding third-party links and external website content.""}"
+C005,1,None,not_applicable,Defines and explains general cookie usage and browser settings options.,1,,32130.261421203613,971,157,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""Defines and explains general cookie usage and browser settings options.""}"
+C087,1,None,not_applicable,"General description of cookies and browser settings, fitting no specific DPDP obligation.",1,,47960.82258224487,945,271,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""General description of cookies and browser settings, fitting no specific DPDP obligation.""
+}"
+C083,1,Grievance Redressal,not_satisfied,Uses generic 'contact us' without naming a Grievance Officer or specifying a concrete response timeframe.,1,,15888.567686080933,903,331,"{""obligation"": ""Grievance Redressal"", ""status"": ""not_satisfied"", ""reason"": ""Uses generic 'contact us' without naming a Grievance Officer or specifying a concrete response timeframe.""}"
+C080,1,Purpose Limitation,not_satisfied,Restricts third-party sharing to legal compliance but fails to state the primary purposes for data collection.,1,,27265.647172927856,923,1421,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Restricts third-party sharing to legal compliance but fails to state the primary purposes for data collection.""}"
+C134,1,Cross-Border Transfer,not_satisfied,Mentions transferring data globally without specifying a legal basis or safeguards.,1,,32127.244234085083,874,630,"{""obligation"": ""Cross-Border Transfer"", ""status"": ""not_satisfied"", ""reason"": ""Mentions transferring data globally without specifying a legal basis or safeguards.""}"
+C003,1,Consent,not_satisfied,Bundles permission with vague purposes like enhancing experience and sharing with third-party partners.,1,,9653.765439987183,943,518,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Bundles permission with vague purposes like enhancing experience and sharing with third-party partners.""}"
+C093,1,Withdrawal of Consent,not_satisfied,Provides an opt-out mechanism for marketing but does not state the consequences or effect of withdrawal.,1,,24568.936109542847,930,786,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Provides an opt-out mechanism for marketing but does not state the consequences or effect of withdrawal.""
+}"
+C086,1,Children's Data,not_satisfied,Lacks a verifiable parental consent mechanism and does not prohibit targeted advertising or tracking of children.,0,unknown_obligation,27062.132596969604,1056,416,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lacks a verifiable parental consent mechanism and does not prohibit targeted advertising or tracking of children.""
+}"
+C029,1,None,not_applicable,"This is a standard policy update and notification clause, which falls under boilerplate text.",1,,13804.926633834839,939,650,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""This is a standard policy update and notification clause, which falls under boilerplate text.""}"
+C145,1,Security Safeguards,not_satisfied,Uses vague terms like 'reasonable security measures' without specifying concrete technical or organizational safeguards.,1,,13298.377752304077,1054,355,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses vague terms like 'reasonable security measures' without specifying concrete technical or organizational safeguards.""
+}"
+C133,1,Retention and Erasure,not_satisfied,Uses vague timeframe 'till such time required' without stating a specific retention period or deletion trigger.,1,,7265.978097915649,891,252,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Uses vague timeframe 'till such time required' without stating a specific retention period or deletion trigger.""}"
+C089,1,Consent,not_satisfied,Uses vague 'by using our platform' language instead of requiring a clear affirmative action for consent.,1,,36676.53846740723,920,423,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Uses vague 'by using our platform' language instead of requiring a clear affirmative action for consent.""}"
+C069,1,Security Safeguards,satisfied,Mentions concrete technical safeguards such as encryption and secure payment gateways for protecting financial data.,1,,8101.274251937866,948,302,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Mentions concrete technical safeguards such as encryption and secure payment gateways for protecting financial data.""}"
+C057,1,None,not_applicable,This is a general cookie description and information about browser settings.,1,,76280.4024219513,922,305,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This is a general cookie description and information about browser settings.""
+}"
+C013,3,None,not_applicable,"The clause deals with intellectual property rights and disclaimers, not personal data processing obligations.",1,,26318.455934524536,1025,119,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""The clause deals with intellectual property rights and disclaimers, not personal data processing obligations.""}"
+C113,3,Withdrawal of Consent,not_satisfied,Provides an email for withdrawal but omits post-withdrawal consequences and ease of process.,1,,53187.419414520264,892,461,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""not_satisfied"", ""reason"": ""Provides an email for withdrawal but omits post-withdrawal consequences and ease of process.""}"
+C105,3,Purpose Limitation,not_satisfied,Uses open-ended language ('purposes such as') rather than specifying and limiting processing to defined purposes.,1,,18055.6001663208,875,519,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses open-ended language ('purposes such as') rather than specifying and limiting processing to defined purposes.""
+}"
+C124,3,None,not_applicable,Boilerplate clause limiting liability for force majeure events and inaccurate data provided by the user.,1,,14846.918821334839,1008,348,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""Boilerplate clause limiting liability for force majeure events and inaccurate data provided by the user.""
+}"
+C001,3,Consent,not_satisfied,"Implies consent through registration rather than requiring explicit, unbundled affirmative action.",1,,9315.414667129517,945,408,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Implies consent through registration rather than requiring explicit, unbundled affirmative action.""
+}"
+C125,3,Retention and Erasure,not_satisfied,States data is kept for a limited period without specifying a concrete retention timeframe or deletion trigger.,1,,12739.08019065857,945,624,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""States data is kept for a limited period without specifying a concrete retention timeframe or deletion trigger.""}"
+C076,3,None,not_applicable,Third-party link liability disclaimer; does not fall under any DPDP Act obligation.,1,,11175.108671188354,1011,206,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""Third-party link liability disclaimer; does not fall under any DPDP Act obligation.""}"
+C063,3,Security Safeguards,not_satisfied,"Mentions generic administrative, technical, and physical safeguards without concrete details like encryption or access controls.",1,,8141.889333724976,939,266,"{""obligation"": ""Security Safeguards"", ""status"": ""not_satisfied"", ""reason"": ""Mentions generic administrative, technical, and physical safeguards without concrete details like encryption or access controls.""}"
+C081,3,Security Safeguards,satisfied,"Describes concrete technical and organizational security measures including encryption, physical security, and employee confidentiality obligations.",1,,5235.815048217773,976,364,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Describes concrete technical and organizational security measures including encryption, physical security, and employee confidentiality obligations.""}"
+C071,3,Security Safeguards,satisfied,Mentions concrete technical measures such as firewalls and transport layer security to protect personal data.,1,,50854.73847389221,990,376,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Mentions concrete technical measures such as firewalls and transport layer security to protect personal data.""
+}"
+C040,3,Withdrawal of Consent,not_satisfied,States the right to withdraw consent but fails to specify any withdrawal method or consequences.,1,,30567.996978759766,870,373,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""States the right to withdraw consent but fails to specify any withdrawal method or consequences.""
+}"
+C161,3,Purpose Limitation,not_satisfied,"Does not specify concrete purposes in the clause itself, relying on broad policy references.",1,,9695.71852684021,910,506,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not specify concrete purposes in the clause itself, relying on broad policy references.""
+}"
+C155,3,Grievance Redressal,not_satisfied,Mentions response timeframes for the Grievance Officer but lacks specific contact details in the text.,1,,41879.77361679077,906,575,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions response timeframes for the Grievance Officer but lacks specific contact details in the text.""
+}"
+C175,3,Consent,not_satisfied,"Uses implied consent, opt-out methods, and vague 'by using this website' consent wording.",1,,10248.039722442627,1159,841,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses implied consent, opt-out methods, and vague 'by using this website' consent wording.""
+}"
+C014,3,None,not_applicable,This clause defines legal roles and capacities of the company rather than addressing a specific DPDP obligation.,1,,8901.927947998047,915,685,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This clause defines legal roles and capacities of the company rather than addressing a specific DPDP obligation.""
+}"
+C149,3,Purpose Limitation,satisfied,States specific purposes for collecting personal data without using open-ended catch-all language.,1,,55631.06894493103,908,840,"{""obligation"": ""Purpose Limitation"", ""status"": ""satisfied"", ""reason"": ""States specific purposes for collecting personal data without using open-ended catch-all language.""}"
+C120,3,Children's Data,not_satisfied,Lacks a verifiable parental consent mechanism and does not prohibit tracking or targeted advertising for children.,0,unknown_obligation,65881.72006607056,928,689,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lacks a verifiable parental consent mechanism and does not prohibit tracking or targeted advertising for children.""
+}"
+C006,3,Purpose Limitation,satisfied,States specific purposes for sharing data with affiliates and restricts marketing without explicit opt-in.,1,,59803.01928520203,946,647,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""satisfied"",
+  ""reason"": ""States specific purposes for sharing data with affiliates and restricts marketing without explicit opt-in.""
+}"
+C156,3,None,not_applicable,The clause is a general cookie description explaining how cookies are used on the platform.,1,,11839.149951934814,921,463,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""The clause is a general cookie description explaining how cookies are used on the platform.""}"
+C049,3,Notice,not_satisfied,"Does not specify personal data collected, processing purpose, or route to complain to the Data Protection Board.",1,,21633.7730884552,959,847,"{
+  ""obligation"": ""Notice"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not specify personal data collected, processing purpose, or route to complain to the Data Protection Board.""
+}"
+C176,5,Consent,not_satisfied,"It assumes blanket authorization despite DND registration without requiring clear, affirmative consent.",1,,8383.490562438965,967,598,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""It assumes blanket authorization despite DND registration without requiring clear, affirmative consent.""
+}"
+C169,5,Purpose Limitation,not_satisfied,Uses open-ended language like 'For other purposes' and vague evaluation goals without clear limitation.,1,,7743.841171264648,900,490,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Uses open-ended language like 'For other purposes' and vague evaluation goals without clear limitation.""}"
+C112,5,Retention and Erasure,not_satisfied,"Mentions deletion and legal retention, but lacks specific retention periods or clear deletion triggers.",1,,6883.618593215942,878,582,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions deletion and legal retention, but lacks specific retention periods or clear deletion triggers.""
+}"
+C180,5,Children's Data,not_satisfied,It lacks a verifiable parental consent mechanism and prohibitions on tracking or targeting children.,0,unknown_obligation,12883.313655853271,875,280,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""It lacks a verifiable parental consent mechanism and prohibitions on tracking or targeting children.""
+}"
+C136,5,Security Safeguards,satisfied,"It specifies concrete organizational measures, including access control on a need-to-know basis.",1,,7332.033157348633,885,545,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""satisfied"",
+  ""reason"": ""It specifies concrete organizational measures, including access control on a need-to-know basis.""
+}"
+C121,5,Retention and Erasure,not_satisfied,Uses 'as long as necessary' without providing a specific retention period or concrete deletion trigger.,1,,8603.3034324646,895,321,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Uses 'as long as necessary' without providing a specific retention period or concrete deletion trigger.""}"
+C108,5,Cross-Border Transfer,satisfied,"Discloses international transfers, specific country locations, and the legal basis (contracts and consent) for transfers.",1,,11820.707082748413,1137,552,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Discloses international transfers, specific country locations, and the legal basis (contracts and consent) for transfers.""
+}"
+C160,5,Notice,not_satisfied,"Lists data principal rights but lacks processing purpose, data types, and DPB complaint mechanism.",1,,55082.196950912476,905,709,"{
+  ""obligation"": ""Notice"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lists data principal rights but lacks processing purpose, data types, and DPB complaint mechanism.""
+}"
+C131,5,Purpose Limitation,not_satisfied,Uses open-ended language such as 'all other general administrative and business purposes'.,1,,15275.756359100342,995,464,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses open-ended language such as 'all other general administrative and business purposes'.""
+}"
+C084,5,Retention and Erasure,not_satisfied,Lists grounds for erasure requests without specifying a clear retention period or mandatory deletion timeline.,1,,41891.96419715881,1038,884,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Lists grounds for erasure requests without specifying a clear retention period or mandatory deletion timeline.""}"
+C046,5,Cross-Border Transfer,satisfied,States data may be transferred outside India under adequate safeguards required by the DPDP Act.,1,,7912.456035614014,879,951,"{""obligation"": ""Cross-Border Transfer"", ""status"": ""satisfied"", ""reason"": ""States data may be transferred outside India under adequate safeguards required by the DPDP Act.""}"
+C091,5,Withdrawal of Consent,satisfied,Provides email contacts to withdraw consent and clearly explains the consequences of doing so.,1,,7556.335687637329,1083,589,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""satisfied"", ""reason"": ""Provides email contacts to withdraw consent and clearly explains the consequences of doing so.""}"
+C179,5,Security Safeguards,satisfied,Mentions ISO 27001:2022 certification and concrete technical measures like HTTPS encryption for data transfer.,1,,8489.366054534912,1100,494,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Mentions ISO 27001:2022 certification and concrete technical measures like HTTPS encryption for data transfer.""
+}"
+C019,5,Consent,not_satisfied,Deems consent as obtained upon account registration rather than requiring clear affirmative action.,1,,32608.067989349365,972,997,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Deems consent as obtained upon account registration rather than requiring clear affirmative action.""}"
+C129,5,None,not_applicable,"Clause is a liability disclaimer for third-party links and policies, matching no statutory obligation.",1,,6227.349281311035,1095,518,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""Clause is a liability disclaimer for third-party links and policies, matching no statutory obligation.""
+}"
+C079,5,Retention and Erasure,not_satisfied,Allows erasure upon request but lacks specific retention periods and retains residual backup data indefinitely.,1,,24498.123168945312,953,773,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Allows erasure upon request but lacks specific retention periods and retains residual backup data indefinitely.""
+}"
+C109,5,Cross-Border Transfer,not_satisfied,Mentions cross-border data transfer but relies on site usage consent without specifying a legal basis.,1,,80744.37928199768,951,414,"{""obligation"": ""Cross-Border Transfer"", ""status"": ""not_satisfied"", ""reason"": ""Mentions cross-border data transfer but relies on site usage consent without specifying a legal basis.""}"
+C107,5,Withdrawal of Consent,satisfied,"It provides a simple, direct opt-out mechanism for marketing emails via email instructions or direct contact.",1,,18228.256940841675,908,918,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""satisfied"", ""reason"": ""It provides a simple, direct opt-out mechanism for marketing emails via email instructions or direct contact.""}"
+C073,5,Withdrawal of Consent,not_satisfied,"Only covers opting out of promotional emails/newsletters, not full consent withdrawal or post-withdrawal consequences.",1,,40794.269323349,1031,845,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Only covers opting out of promotional emails/newsletters, not full consent withdrawal or post-withdrawal consequences.""
+}"
+C181,5,Retention and Erasure,satisfied,Specifies a clear procedure and 30-day processing timeframe for personal data deletion requests.,1,,14641.120910644531,910,714,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Specifies a clear procedure and 30-day processing timeframe for personal data deletion requests.""
+}"
+C092,5,Purpose Limitation,not_satisfied,"Uses broad, generic descriptions like business operations without strictly limiting processing to specific purposes.",1,,35265.783071517944,908,495,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses broad, generic descriptions like business operations without strictly limiting processing to specific purposes.""
+}"
+C101,5,Children's Data,not_satisfied,Mentions verifiable parental consent but fails to explicitly prohibit tracking or targeted advertising for children.,0,unknown_obligation,63472.779989242554,912,378,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions verifiable parental consent but fails to explicitly prohibit tracking or targeted advertising for children.""
+}"
+C074,5,Grievance Redressal,not_satisfied,"Names a Grievance Officer and contact details, but fails to provide a response timeframe.",1,,54660.1665019989,887,503,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Names a Grievance Officer and contact details, but fails to provide a response timeframe.""
+}"
+C146,5,Retention and Erasure,not_satisfied,Mentions data deletion on request but lacks specific retention periods or concrete erasure timeframes.,1,,109475.64244270325,1028,667,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions data deletion on request but lacks specific retention periods or concrete erasure timeframes.""
+}"
+C022,5,Retention and Erasure,satisfied,"Specifies retention criteria, a 30-day erasure timeline upon request, and a 1-year log purge schedule.",1,,61525.56777000427,962,412,"{""obligation"": ""Retention and Erasure"", ""status"": ""satisfied"", ""reason"": ""Specifies retention criteria, a 30-day erasure timeline upon request, and a 1-year log purge schedule.""}"
+C115,5,Consent,not_satisfied,Deeming continued use of the site as acceptance of policy changes does not constitute valid affirmative consent.,1,,65349.06625747681,982,428,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Deeming continued use of the site as acceptance of policy changes does not constitute valid affirmative consent.""
+}"
+C094,5,Consent,not_satisfied,"Generic statement of explicit consent that lacks required details of being free, specific, informed, and unconditional.",1,,50160.656452178955,894,561,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Generic statement of explicit consent that lacks required details of being free, specific, informed, and unconditional.""
+}"
+C096,5,Withdrawal of Consent,not_satisfied,The clause specifies what happens upon withdrawal but leaves the contact details incomplete and unclear.,1,,69365.52548408508,920,494,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""The clause specifies what happens upon withdrawal but leaves the contact details incomplete and unclear.""
+}"
+C088,5,None,not_applicable,"This clause deals with privacy policy updates and general statements, which does not map to a specific obligation.",1,,41676.06520652771,934,598,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This clause deals with privacy policy updates and general statements, which does not map to a specific obligation.""
+}"
+C060,5,Retention and Erasure,not_satisfied,"Mentions erasure rights and retention exceptions, but lacks specific retention periods or deletion triggers.",1,,36293.184995651245,927,642,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Mentions erasure rights and retention exceptions, but lacks specific retention periods or deletion triggers.""}"
+C066,5,Consent,not_satisfied,"Conditions platform access on forced, bundled acceptance of the privacy policy and terms of use.",1,,55396.08359336853,947,389,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Conditions platform access on forced, bundled acceptance of the privacy policy and terms of use.""
+}"
+C122,5,Cross-Border Transfer,satisfied,States data may be transferred outside India and specifies the basis and compliance requirements for transfer.,1,,40883.4433555603,924,421,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""satisfied"",
+  ""reason"": ""States data may be transferred outside India and specifies the basis and compliance requirements for transfer.""
+}"
+C100,5,Breach Notification,satisfied,Explicitly commits to notifying both the Data Protection Board and affected users in the event of a breach.,1,,34780.56216239929,894,547,"{
+  ""obligation"": ""Breach Notification"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Explicitly commits to notifying both the Data Protection Board and affected users in the event of a breach.""
+}"
+C072,5,Security Safeguards,not_satisfied,Mentions generic confidentiality obligations for employees and processors without specifying technical or organizational security measures.,1,,14407.217979431152,901,650,"{""obligation"": ""Security Safeguards"", ""status"": ""not_satisfied"", ""reason"": ""Mentions generic confidentiality obligations for employees and processors without specifying technical or organizational security measures.""}"
+C151,5,None,not_applicable,This clause is a limitation of liability disclaimer and does not address any specific DPDP obligation.,1,,33173.32339286804,936,485,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This clause is a limitation of liability disclaimer and does not address any specific DPDP obligation.""
+}"
+C139,5,Consent,not_satisfied,Bundles cookie consent into acceptance of general terms rather than requiring a clear affirmative action.,1,,44686.22183799744,949,499,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Bundles cookie consent into acceptance of general terms rather than requiring a clear affirmative action.""
+}"
+C027,5,Security Safeguards,not_satisfied,"Generic statement with security disclaimers, lacking concrete technical or organizational measures.",1,,45002.96998023987,912,319,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Generic statement with security disclaimers, lacking concrete technical or organizational measures.""
+}"
+C119,5,Purpose Limitation,satisfied,Lists specific purposes for mobile permissions without using open-ended language.,1,,42663.501024246216,987,450,"{""obligation"": ""Purpose Limitation"", ""status"": ""satisfied"", ""reason"": ""Lists specific purposes for mobile permissions without using open-ended language.""}"
+C167,5,None,not_applicable,Boilerplate clause regarding privacy policy modification without notice.,1,,34381.7024230957,872,195,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""Boilerplate clause regarding privacy policy modification without notice.""}"
+C097,5,Grievance Redressal,not_satisfied,"Names a Grievance Officer with contact details, but fails to provide a response timeframe.",1,,65149.46269989014,951,446,"{""obligation"": ""Grievance Redressal"", ""status"": ""not_satisfied"", ""reason"": ""Names a Grievance Officer with contact details, but fails to provide a response timeframe.""}"
+C174,6,None,not_applicable,Third-party disclaimer boilerplate not mapped to any specific DPDP obligation.,1,,70653.38158607483,899,198,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""Third-party disclaimer boilerplate not mapped to any specific DPDP obligation.""}"
+C118,6,Purpose Limitation,not_satisfied,Uses open-ended language like 'such as' rather than explicitly limiting processing to specific defined purposes.,1,,55010.71286201477,888,611,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Uses open-ended language like 'such as' rather than explicitly limiting processing to specific defined purposes.""}"
+C075,6,None,not_applicable,Introductory preamble describing the scope of the privacy policy.,1,,53155.29704093933,938,363,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""Introductory preamble describing the scope of the privacy policy.""
+}"
+C126,6,Retention and Erasure,not_satisfied,"Mentions deletion upon request, but lacks a specific retention period or automatic erasure trigger.",1,,51102.24461555481,895,715,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions deletion upon request, but lacks a specific retention period or automatic erasure trigger.""
+}"
+C011,6,Grievance Redressal,satisfied,Provides contact details for the Grievance Officer and includes specific acknowledgment and resolution timeframes.,1,,44347.240686416626,922,240,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Provides contact details for the Grievance Officer and includes specific acknowledgment and resolution timeframes.""
+}"
+C117,6,None,not_applicable,"General description of third-party links and integrations, not addressing any specific DPDP Act obligation.",1,,46566.30301475525,909,282,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""General description of third-party links and integrations, not addressing any specific DPDP Act obligation.""}"
+C135,6,Withdrawal of Consent,not_satisfied,"Requires email with a reason and takes 30 days, which is not as easy as giving consent.",1,,46946.89393043518,935,885,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""not_satisfied"", ""reason"": ""Requires email with a reason and takes 30 days, which is not as easy as giving consent.""}"
+C030,6,Grievance Redressal,not_satisfied,"Provides a 30-day timeframe and email, but fails to name a Grievance Officer or DPO.",1,,17949.05161857605,932,522,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Provides a 30-day timeframe and email, but fails to name a Grievance Officer or DPO.""
+}"
+C064,6,Consent,not_satisfied,Deems continued use as consent for amendments instead of requiring a clear affirmative action.,1,,44407.92512893677,988,763,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Deems continued use as consent for amendments instead of requiring a clear affirmative action.""}"
+C002,6,Notice,not_satisfied,"Specifies personal data collected but lacks processing purposes, user rights, and Data Protection Board complaint details.",1,,29210.285425186157,912,551,"{
+  ""obligation"": ""Notice"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Specifies personal data collected but lacks processing purposes, user rights, and Data Protection Board complaint details.""
+}"
+C043,6,Notice,not_satisfied,"Lists collected personal data categories but lacks details on purpose, user rights, and DPB complaint mechanism.",1,,34926.40972137451,945,242,"{""obligation"": ""Notice"", ""status"": ""not_satisfied"", ""reason"": ""Lists collected personal data categories but lacks details on purpose, user rights, and DPB complaint mechanism.""}"
+C123,6,Security Safeguards,satisfied,"Mentions concrete security measures including encryption, access controls, and periodic audits.",1,,43791.02849960327,883,280,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Mentions concrete security measures including encryption, access controls, and periodic audits.""}"
+C018,6,Consent,not_satisfied,"Mentions consent for data sharing, but fails to define it as free, specific, informed, and unconditional.",1,,41769.996881484985,918,726,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions consent for data sharing, but fails to define it as free, specific, informed, and unconditional.""
+}"
+C171,6,Consent,not_satisfied,Consent for 'any purpose' lacks specificity and is not limited to necessary purposes.,1,,34779.5352935791,870,426,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Consent for 'any purpose' lacks specificity and is not limited to necessary purposes.""
+}"
+C054,6,Purpose Limitation,not_satisfied,"Uses open-ended phrasing ('including') and vague, non-specific purposes like legitimate business interests.",1,,40179.964542388916,965,547,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Uses open-ended phrasing ('including') and vague, non-specific purposes like legitimate business interests.""}"
+C077,6,Notice (s5),not_satisfied,Lacks required details on data principal rights and mechanism for complaining to the Data Protection Board.,0,unknown_obligation,44415.85659980774,942,576,"{
+  ""obligation"": ""Notice (s5)"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lacks required details on data principal rights and mechanism for complaining to the Data Protection Board.""
+}"
+C150,6,Security Safeguards,not_satisfied,Uses generic terms like reasonable security measures without detailing concrete technical controls like encryption.,1,,26622.480630874634,923,324,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses generic terms like reasonable security measures without detailing concrete technical controls like encryption.""
+}"
+C041,6,Grievance Redressal,not_satisfied,"Generic contact email provided without a named Grievance Officer, DPO, or response timeframe.",1,,21371.11759185791,902,538,"{""obligation"": ""Grievance Redressal"", ""status"": ""not_satisfied"", ""reason"": ""Generic contact email provided without a named Grievance Officer, DPO, or response timeframe.""}"
+C070,6,Children's Data,not_satisfied,Does not provide a mechanism for verifiable parental consent for users under 18 years of age.,0,unknown_obligation,25706.188678741455,949,543,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not provide a mechanism for verifiable parental consent for users under 18 years of age.""
+}"
+C158,6,Consent,not_satisfied,"Implies consent merely by providing contact information rather than through a clear, unambiguous affirmative action.",1,,31449.329137802124,894,482,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Implies consent merely by providing contact information rather than through a clear, unambiguous affirmative action.""
+}"
+C130,1,Consent,not_satisfied,"Implies consent merely by accessing or using the website, lacking a clear affirmative action.",1,,17101.682662963867,948,511,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Implies consent merely by accessing or using the website, lacking a clear affirmative action.""}"
+C144,1,Withdrawal of Consent,satisfied,Provides a clear email method to withdraw consent and explains the consequences of doing so.,1,,15423.994064331055,961,366,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""satisfied"", ""reason"": ""Provides a clear email method to withdraw consent and explains the consequences of doing so.""}"
+C106,1,Retention and Erasure,not_satisfied,Uses vague terms like 'as long as we need it' without specifying concrete retention periods or erasure triggers.,1,,38031.43310546875,1015,386,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""Uses vague terms like 'as long as we need it' without specifying concrete retention periods or erasure triggers.""}"
+C148,1,None,not_applicable,This is a general cookie description explaining anonymous site traffic tracking.,1,,29904.84881401062,898,472,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This is a general cookie description explaining anonymous site traffic tracking.""
+}"
+C012,1,None,not_applicable,This is a boilerplate clause regarding privacy policy updates and does not address any specific obligation.,1,,34935.76097488403,883,233,"{
+  ""obligation"": ""None"",
+  ""status"": ""not_applicable"",
+  ""reason"": ""This is a boilerplate clause regarding privacy policy updates and does not address any specific obligation.""
+}"
+C143,1,Purpose Limitation,not_satisfied,"Uses broad and open-ended disclosures for marketing, business transfers, and general policy purposes.",1,,12468.724489212036,1053,774,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses broad and open-ended disclosures for marketing, business transfers, and general policy purposes.""
+}"
+C044,1,Purpose Limitation,satisfied,Lists specific processing purposes without using open-ended catch-all language.,1,,15742.78450012207,942,475,"{""obligation"": ""Purpose Limitation"", ""status"": ""satisfied"", ""reason"": ""Lists specific processing purposes without using open-ended catch-all language.""}"
+C162,1,Security Safeguards,not_satisfied,Uses generic security language without describing concrete technical measures like encryption or access controls.,1,,18566.209077835083,878,358,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses generic security language without describing concrete technical measures like encryption or access controls.""
+}"
+C062,1,Grievance Redressal,not_satisfied,Does not name a specific Grievance Officer or DPO with direct contact details.,1,,38699.0008354187,911,498,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not name a specific Grievance Officer or DPO with direct contact details.""
+}"
+C058,1,Consent,not_satisfied,"Uses conditional language ('where required') and does not fully meet DPDP standards for free, informed, specific consent.",1,,38747.30324745178,925,640,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses conditional language ('where required') and does not fully meet DPDP standards for free, informed, specific consent.""
+}"
+C152,1,Consent,not_satisfied,"Uses deemed consent from website use and bundles promotional permissions instead of explicit, affirmative consent.",1,,13627.426385879517,963,479,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses deemed consent from website use and bundles promotional permissions instead of explicit, affirmative consent.""
+}"
+C024,1,Purpose Limitation,not_satisfied,Uses open-ended purposes such as maintaining an efficient and commercially viable business.,1,,51080.20782470703,1092,612,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Uses open-ended purposes such as maintaining an efficient and commercially viable business.""}"
+C159,1,Withdrawal of Consent,satisfied,Provides an easy opt-out mechanism for promotional messages and explains the effect on transactional communications.,1,,42528.55563163757,910,437,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Provides an easy opt-out mechanism for promotional messages and explains the effect on transactional communications.""
+}"
+C016,1,Purpose Limitation,not_satisfied,Does not specify concrete processing purposes within the text and includes broad processing grounds.,1,,14399.592399597168,940,658,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Does not specify concrete processing purposes within the text and includes broad processing grounds.""}"
+C061,1,Withdrawal of Consent,not_satisfied,Mentions the right to withdraw consent but fails to specify any method for doing so.,1,,12224.934816360474,974,653,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Mentions the right to withdraw consent but fails to specify any method for doing so.""
+}"
+C110,1,Children's Data,not_satisfied,Does not provide a verifiable parental consent mechanism or address tracking/targeted advertising for children.,0,unknown_obligation,50720.05796432495,1018,467,"{
+  ""obligation"": ""Children's Data"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not provide a verifiable parental consent mechanism or address tracking/targeted advertising for children.""
+}"
+C138,1,Grievance Redressal,not_satisfied,Names a Grievance Officer with contact details but lacks a specified response timeframe.,1,,109930.0274848938,989,664,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Names a Grievance Officer with contact details but lacks a specified response timeframe.""
+}"
+C032,1,Consent,not_satisfied,"Implies consent merely by using the services, lacking a clear affirmative action.",1,,20074.193954467773,881,243,"{""obligation"": ""Consent"", ""status"": ""not_satisfied"", ""reason"": ""Implies consent merely by using the services, lacking a clear affirmative action.""}"
+C017,1,Purpose Limitation,not_satisfied,"Uses broad, open-ended wording ('including') for AI/ML processing without specific limitations.",1,,32074.365854263306,901,386,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses broad, open-ended wording ('including') for AI/ML processing without specific limitations.""
+}"
+C045,1,Consent,not_satisfied,"Does not specify that consent must be free, specific, informed, unconditional, or given by clear affirmative action.",1,,10072.560787200928,926,798,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not specify that consent must be free, specific, informed, unconditional, or given by clear affirmative action.""
+}"
+C173,1,Grievance Redressal,satisfied,"Names the Grievance Officer, provides contact details, and mentions resolution within prescribed legal timelines.",1,,16041.25165939331,1027,487,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Names the Grievance Officer, provides contact details, and mentions resolution within prescribed legal timelines.""
+}"
+C035,1,Consent,not_satisfied,"Does not explain how consent is freely given, informed, unconditional, or obtained through clear affirmative action.",1,,38549.56078529358,872,664,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Does not explain how consent is freely given, informed, unconditional, or obtained through clear affirmative action.""
+}"
+C031,1,Purpose Limitation,not_satisfied,Uses broad language permitting data use and sharing for other clients and third parties without clear limitations.,1,,28523.82779121399,939,552,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses broad language permitting data use and sharing for other clients and third parties without clear limitations.""
+}"
+C059,1,Withdrawal of Consent,satisfied,Explains how to opt out of promotional communications and describes the consequences of doing so.,1,,37462.661266326904,957,581,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Explains how to opt out of promotional communications and describes the consequences of doing so.""
+}"
+C036,1,Purpose Limitation,satisfied,It explicitly lists specific processing purposes without including open-ended catch-all phrases.,1,,26136.722564697266,1005,436,"{""obligation"": ""Purpose Limitation"", ""status"": ""satisfied"", ""reason"": ""It explicitly lists specific processing purposes without including open-ended catch-all phrases.""}"
+C078,1,Purpose Limitation,not_satisfied,"Uses broad language to cover all services rather than specifying precise, limited processing purposes.",1,,27435.053825378418,907,594,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses broad language to cover all services rather than specifying precise, limited processing purposes.""
+}"
+C050,1,None,not_applicable,General description of website cookies and reference to cookie settings.,1,,67184.75008010864,880,252,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""General description of website cookies and reference to cookie settings.""}"
+C007,1,Security Safeguards,not_satisfied,Uses generic terms like reasonable security without specifying concrete technical or organizational safeguards.,1,,12462.730884552002,875,687,"{""obligation"": ""Security Safeguards"", ""status"": ""not_satisfied"", ""reason"": ""Uses generic terms like reasonable security without specifying concrete technical or organizational safeguards.""}"
+C103,1,Consent,not_satisfied,Implies consent from mere usage of the site rather than requiring a clear affirmative action.,1,,12056.377649307251,876,437,"{
+  ""obligation"": ""Consent"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Implies consent from mere usage of the site rather than requiring a clear affirmative action.""
+}"
+C140,1,Purpose Limitation,not_satisfied,Uses open-ended language like 'deemed relevant by us' to expand processing purposes beyond specific necessity.,1,,5238.49630355835,907,381,"{
+  ""obligation"": ""Purpose Limitation"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses open-ended language like 'deemed relevant by us' to expand processing purposes beyond specific necessity.""
+}"
+C172,1,Security Safeguards,not_satisfied,Uses generic language without specifying concrete technical or organizational security measures.,1,,8466.938018798828,915,483,"{
+  ""obligation"": ""Security Safeguards"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses generic language without specifying concrete technical or organizational security measures.""
+}"
+C042,1,None,not_applicable,This is a boilerplate disclaimer regarding third-party links and their privacy practices.,1,,17985.790729522705,897,341,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""This is a boilerplate disclaimer regarding third-party links and their privacy practices.""}"
+C111,1,Security Safeguards,satisfied,"Describes concrete technical and organizational measures, including SSL encryption, malware scanning, and access controls.",1,,104745.09406089783,1076,185,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Describes concrete technical and organizational measures, including SSL encryption, malware scanning, and access controls.""}"
+C023,1,Retention and Erasure,not_satisfied,States that automatically collected data has no expiry date and will not be deleted.,1,,23292.63162612915,971,547,"{""obligation"": ""Retention and Erasure"", ""status"": ""not_satisfied"", ""reason"": ""States that automatically collected data has no expiry date and will not be deleted.""}"
+C020,5,Withdrawal of Consent,not_satisfied,Mentions the right to withdraw consent but does not describe any method for doing so.,1,,65291.55516624451,951,436,"{""obligation"": ""Withdrawal of Consent"", ""status"": ""not_satisfied"", ""reason"": ""Mentions the right to withdraw consent but does not describe any method for doing so.""}"
+C164,5,Grievance Redressal,not_satisfied,Provides a Grievance Officer email address but lacks a specific response timeframe.,1,,14468.059539794922,878,315,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Provides a Grievance Officer email address but lacks a specific response timeframe.""
+}"
+C065,5,None,not_applicable,General third-party tracking disclaimer not covered by specific DPDP obligations.,1,,22799.285888671875,914,263,"{""obligation"": ""None"", ""status"": ""not_applicable"", ""reason"": ""General third-party tracking disclaimer not covered by specific DPDP obligations.""}"
+C048,5,Security Safeguards,satisfied,"Describes concrete technical measures including encryption, secure servers, and access controls to protect personal data.",1,,30252.771377563477,879,148,"{""obligation"": ""Security Safeguards"", ""status"": ""satisfied"", ""reason"": ""Describes concrete technical measures including encryption, secure servers, and access controls to protect personal data.""}"
+C114,5,Grievance Redressal,not_satisfied,"Names a Grievance Officer and email, but lacks a specific response timeframe.",1,,8972.048997879028,927,426,"{
+  ""obligation"": ""Grievance Redressal"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Names a Grievance Officer and email, but lacks a specific response timeframe.""
+}"
+C141,5,Notice,not_satisfied,"Lists collected data and purposes, but omits user rights and complaint mechanism to the Board.",1,,20916.491508483887,1014,667,"{""obligation"": ""Notice"", ""status"": ""not_satisfied"", ""reason"": ""Lists collected data and purposes, but omits user rights and complaint mechanism to the Board.""}"
+C015,5,Notice,not_satisfied,"Lists personal data collected but fails to specify processing purposes, user rights, or DPB complaint mechanisms.",1,,11815.88625907898,1143,378,"{
+  ""obligation"": ""Notice"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Lists personal data collected but fails to specify processing purposes, user rights, or DPB complaint mechanisms.""
+}"
+C142,5,Purpose Limitation,not_satisfied,Uses open-ended language like 'for any other purpose' instead of limiting processing to specific purposes.,1,,24855.72338104248,1006,702,"{""obligation"": ""Purpose Limitation"", ""status"": ""not_satisfied"", ""reason"": ""Uses open-ended language like 'for any other purpose' instead of limiting processing to specific purposes.""}"
+C037,5,Cross-Border Transfer,not_satisfied,Refers to transfers outside the EEA with incomplete and vague references to approved transfer mechanisms.,1,,24767.447233200073,884,648,"{
+  ""obligation"": ""Cross-Border Transfer"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Refers to transfers outside the EEA with incomplete and vague references to approved transfer mechanisms.""
+}"
+C098,5,Retention and Erasure,not_satisfied,Uses vague 'as long as necessary' phrasing without specifying a concrete retention period or deletion trigger.,1,,16868.174076080322,908,289,"{
+  ""obligation"": ""Retention and Erasure"",
+  ""status"": ""not_satisfied"",
+  ""reason"": ""Uses vague 'as long as necessary' phrasing without specifying a concrete retention period or deletion trigger.""
+}"
+C137,5,Withdrawal of Consent,satisfied,Provides email and phone number to withdraw consent and states the consequences of withdrawal.,1,,15311.400413513184,960,461,"{
+  ""obligation"": ""Withdrawal of Consent"",
+  ""status"": ""satisfied"",
+  ""reason"": ""Provides email and phone number to withdraw consent and states the consequences of withdrawal.""
+}"

@@ -1,0 +1,186 @@
+clause_id,policy_id,true,gemini_label,strict_pred,lenient_pred,rescued
+C001,13,consent,Consent,consent,consent,False
+C002,13,notice,Notice,notice,notice,False
+C003,13,consent,Consent,consent,consent,False
+C004,13,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C005,13,none,None,none,none,False
+C006,13,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C007,13,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C008,13,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C009,13,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C010,13,none,Purpose Limitation,purpose limitation,purpose limitation,False
+C011,13,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C012,13,none,None,none,none,False
+C013,13,none,None,none,none,False
+C014,88,none,None,none,none,False
+C015,88,notice,Notice,notice,notice,False
+C016,88,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C017,88,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C018,88,consent,Consent,consent,consent,False
+C019,88,consent,Consent,consent,consent,False
+C020,88,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C021,88,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C022,88,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C023,88,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C024,88,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C025,88,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C026,88,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C027,88,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C028,88,children's data,Children's Data,invalid,children's data,True
+C029,88,notice,None,none,none,False
+C030,88,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C031,88,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C032,88,consent,Consent,consent,consent,False
+C033,88,none,None,none,none,False
+C034,88,none,Grievance Redressal,grievance redressal,grievance redressal,False
+C035,158,consent,Consent,consent,consent,False
+C036,158,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C037,158,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C038,158,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C039,158,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C040,158,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C041,158,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C042,158,none,None,none,none,False
+C043,158,notice,Notice,notice,notice,False
+C044,158,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C045,158,consent,Consent,consent,consent,False
+C046,158,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C047,158,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C048,158,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C049,158,grievance redressal,Notice,notice,notice,False
+C050,158,none,None,none,none,False
+C051,70,consent,Consent,consent,consent,False
+C052,70,children's data,Children's Data,invalid,children's data,True
+C053,70,consent,Consent,consent,consent,False
+C054,70,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C055,70,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C056,70,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C057,70,none,None,none,none,False
+C058,70,consent,Consent,consent,consent,False
+C059,70,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C060,70,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C061,70,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C062,70,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C063,70,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C064,70,notice,Consent,consent,consent,False
+C065,70,none,None,none,none,False
+C066,129,consent,Consent,consent,consent,False
+C067,129,retention and erasure,Grievance Redressal,grievance redressal,grievance redressal,False
+C068,129,purpose limitation,Consent,consent,consent,False
+C069,129,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C070,129,children's data,Children's Data,invalid,children's data,True
+C071,129,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C072,129,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C073,129,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C074,129,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C075,129,none,None,none,none,False
+C076,129,none,None,none,none,False
+C077,152,consent,Notice (s5),invalid,notice,True
+C078,152,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C079,152,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C080,152,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C081,152,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C082,152,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C083,152,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C084,152,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C085,152,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C086,152,children's data,Children's Data,invalid,children's data,True
+C087,152,none,None,none,none,False
+C088,152,none,None,none,none,False
+C089,157,consent,Consent,consent,consent,False
+C090,157,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C091,157,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C092,157,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C093,157,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C094,157,consent,Consent,consent,consent,False
+C095,157,consent,Consent,consent,consent,False
+C096,157,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C097,157,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C098,157,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C099,157,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C100,157,breach notification,Breach Notification,breach notification,breach notification,False
+C101,157,children's data,Children's Data,invalid,children's data,True
+C102,157,none,None,none,none,False
+C103,79,consent,Consent,consent,consent,False
+C104,79,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C105,79,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C106,79,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C107,79,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C108,79,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C109,79,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C110,79,children's data,Children's Data,invalid,children's data,True
+C111,79,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C112,79,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C113,79,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C114,79,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C115,79,none,Consent,consent,consent,False
+C116,79,none,None,none,none,False
+C117,79,none,None,none,none,False
+C118,34,consent,Purpose Limitation,purpose limitation,purpose limitation,False
+C119,34,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C120,34,children's data,Children's Data,invalid,children's data,True
+C121,34,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C122,34,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C123,34,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C124,34,security safeguards,None,none,none,False
+C125,34,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C126,34,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C127,34,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C128,34,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C129,34,none,None,none,none,False
+C130,33,consent,Consent,consent,consent,False
+C131,33,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C132,33,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C133,33,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C134,33,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C135,33,retention and erasure,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C136,33,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C137,33,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C138,33,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C139,33,none,Consent,consent,consent,False
+C140,35,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C141,35,notice,Notice,notice,notice,False
+C142,35,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C143,35,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C144,35,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C145,35,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C146,35,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C147,35,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C148,35,none,None,none,none,False
+C149,87,notice,Purpose Limitation,purpose limitation,purpose limitation,False
+C150,87,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C151,87,security safeguards,None,none,none,False
+C152,87,consent,Consent,consent,consent,False
+C153,87,retention and erasure,Purpose Limitation,purpose limitation,purpose limitation,False
+C154,87,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C155,87,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C156,87,none,None,none,none,False
+C157,89,consent,Consent,consent,consent,False
+C158,89,consent,Consent,consent,consent,False
+C159,89,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C160,89,withdrawal of consent,Notice,notice,notice,False
+C161,89,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C162,89,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C163,89,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C164,89,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C165,89,none,None,none,none,False
+C166,90,consent,Consent,consent,consent,False
+C167,90,notice,None,none,none,False
+C168,90,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C169,90,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C170,90,purpose limitation,Purpose Limitation,purpose limitation,purpose limitation,False
+C171,90,consent,Consent,consent,consent,False
+C172,90,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C173,90,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C174,90,none,None,none,none,False
+C175,80,consent,Consent,consent,consent,False
+C176,80,consent,Consent,consent,consent,False
+C177,80,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C178,80,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False
+C179,80,security safeguards,Security Safeguards,security safeguards,security safeguards,False
+C180,80,children's data,Children's Data,invalid,children's data,True
+C181,80,retention and erasure,Retention and Erasure,retention and erasure,retention and erasure,False
+C182,80,withdrawal of consent,Withdrawal of Consent,withdrawal of consent,withdrawal of consent,False
+C183,80,grievance redressal,Grievance Redressal,grievance redressal,grievance redressal,False
+C184,80,children's data,Children's Data,invalid,children's data,True
+C185,80,cross-border transfer,Cross-Border Transfer,cross-border transfer,cross-border transfer,False

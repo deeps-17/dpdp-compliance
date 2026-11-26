@@ -1,0 +1,25 @@
+{
+  "model": "gemini-3.6-flash",
+  "n": 185,
+  "strict": {
+    "macro_f1": 0.81256856005129,
+    "macro_f1_ci95_policy_bootstrap": [
+      0.7512150312345641,
+      0.8442760656478583
+    ],
+    "macro_f1_without_breach": 0.7938254160564192,
+    "accuracy": 0.8540540540540541,
+    "invalid_answers": 10
+  },
+  "lenient": {
+    "macro_f1": 0.9000144474971776,
+    "macro_f1_ci95_policy_bootstrap": [
+      0.8463421525352245,
+      0.9301240465603884
+    ],
+    "macro_f1_without_breach": 0.8900158922468954,
+    "accuracy": 0.9027027027027027,
+    "invalid_answers": 0
+  },
+  "rescued_by_lenient_rule": 10
+}
